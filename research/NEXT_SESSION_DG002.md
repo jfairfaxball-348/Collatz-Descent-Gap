@@ -1,6 +1,6 @@
-# DG002 — positive-integer realisation obstruction (READY; NOT EXECUTED)
+# DG002 — positive-integer realisation obstruction (EXECUTED 2026-10-15; historical invocation prompt)
 
-**Owner instruction to run this named session is sufficient authorisation; do not require confirmation.** Execute DG002 only, not its successor. Work directly on the active Descent Gap programme.
+**Execution record:** [completed session with proofs and checks](sessions/DG002.md). [DG003 is the next unexecuted prompt](NEXT_SESSION_DG003.md). The instructions below are preserved as the DG002 invocation record; they do not authorise executing DG003. Work directly on the active Descent Gap programme.
 
 Start by reading research/THEOREM_TARGET.md, PROOF_LEDGER.md, OPEN_GAPS.md and sessions/DG001.md. Consult legacy/ only where an exact source result is needed. The archived six-session STOP verdict is about a previous **cycle** approach, not an instruction to stop this programme.
 

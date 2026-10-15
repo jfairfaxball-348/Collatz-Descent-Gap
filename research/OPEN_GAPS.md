@@ -19,3 +19,13 @@ Find a structural lower bound on prevalence **conditional on E nonempty** which 
 
 ## Progress criterion
 Advance only when an explicit mathematically verified statement genuinely narrows E or proves impossibility of a whole class of permanent survivors. No percentage, forced audits, last-chance countdowns, or automatic retirement of the programme.
+
+
+## DG002 findings and precise surviving obstruction (2026-10-15)
+
+- **Proved:** for a fixed parity block w with multiplier A=3^s, D=2^m, q>=0, t complete repetitions from integer x require D^t | (D-A)x-q. An expanding block A>D satisfies D^t <= (A-D)x+q; its infinite periodic itinerary corresponds to a negative rational 2-adic value, not a positive integer. Positive *eventually periodic* parity itineraries are actual eventual integer cycles, so the unknown nontrivial-cycle case remains open.
+- **Proved, genuinely nonperiodic:** a run of t expanding w-blocks starting at orbit time J obeys D^t <= (A-D)((3/2)^J(n+1)-1)+q. For w=110 this reads 8^t <= (3/2)^J(n+1)+4. The explicit coherent infinite word built from (110)^(J_i+1) with separated odd bits (J_(i+1)=4J_i+4) has M(prefix)=infinity for every prefix yet **no positive integer** can realise the word. Hence even a fully compatible *nonperiodic*, uniformly supercritical sequence of finite cylinders is not a bridge to E nonempty.
+- **Proved, true restriction on E:** each n in E has s_k >= ceil(k log2/log(3+1/n)), in particular s_k>k/2 for all k. This is necessary but allows many non-realised 2-adic paths; no proof that all positive-integer realisations eventually fail.
+- **Sharp counterexamples:** n_t=8^t-5 survives (110)^t for 3t steps, attains the cross-depth lower bound, and varies with t. The usual n=2^k t-1 long-odd-prefix counterexample also remains valid.
+
+**Open DG-GAP-01 unchanged:** E empty is unproved. The next genuinely useful bridge must rule out a **fixed positive integer n** with a nonperiodic non-descending path not blocked by the new congruence and drift inequalities, or derive an incompatible prevalence lower bound conditional on its existence. Merely excluding paths already unrealised by any positive integer is not a net elimination of E. Try combining exact DG001 prefix values at separate times with DG002 shifted congruences, not just generic exponential envelopes. See [DG002 proof](sessions/DG002.md) and [DG003 prompt](NEXT_SESSION_DG003.md).
