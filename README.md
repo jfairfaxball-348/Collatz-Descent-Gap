@@ -37,7 +37,7 @@ The old RL conveyor, cycle-specific R1–R7 stages, compulsory process audits an
 
 ## Verification and limits
 
-[Finite-horizon reference verifier](research/verification/finite_survival.py) [DG002 exact block checker](research/verification/verify_DG002.py), and [DG003 inverse/cylinder checker](research/verification/verify_DG003.py) check only their stated bounded cases. DG002 and DG003's infinite-horizon lemmas have elementary paper proofs, not Lean or Palomar certificates. No universal Collatz proof or new major mathematical breakthrough is claimed. Mathematical claims are tagged by proof status in the ledger, with Git history recording corrections.
+[Finite-horizon reference verifier](research/verification/finite_survival.py), [DG002 exact block checker](research/verification/verify_DG002.py), and [DG003 inverse/cylinder checker](research/verification/verify_DG003.py) check only their stated bounded cases. DG002 and DG003's infinite-horizon lemmas have elementary paper proofs, not Lean or Palomar certificates. No universal Collatz proof or new major mathematical breakthrough is claimed. Mathematical claims are tagged by proof status in the ledger, with Git history recording corrections.
 
 ## Research provenance
 
