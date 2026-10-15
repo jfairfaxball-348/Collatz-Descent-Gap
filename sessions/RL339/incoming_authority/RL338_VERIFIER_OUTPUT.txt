@@ -1,7 +1,0 @@
-RL338_Q35_FAST_GREEN
-anchor 35(K-2H)-S<=43
-layers [(5, 64120, 161), (6, 130386, 8), (7, 185360, 0), (8, 204590, 0)]
-successor_margin exception<=8 short<=-30 p7low=-88 p>=9<=-14
-consumer_rho60_floor 32546271992
-consumer_bridge_floor 32546271999
-cap 32546271999

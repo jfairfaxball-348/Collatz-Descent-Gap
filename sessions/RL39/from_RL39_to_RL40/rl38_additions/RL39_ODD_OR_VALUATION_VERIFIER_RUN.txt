@@ -1,4 +1,0 @@
-RL39 odd-or-valuation transport-charge verifier: PASS
-canonical positive excursions checked through area 15 = 148520
-column-to-preceding-odd interval partition and area charging verified
-long-valuation geometric suppression sanity verified

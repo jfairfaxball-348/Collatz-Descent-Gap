@@ -1,6 +1,0 @@
-# RL107 start here
-
-Read `RL106_ALIGNED_ZERO_RUN_EXCLUSION_2026-08-26.md`, then
-`RL106_SESSION_STATE_AND_RL107_KICKOFF_2026-08-26.md`, then
-`RL107_ODD_CORE_COLLISION_OWNERSHIP_TARGET.md`.  No global cycle or Collatz
-closure is claimed.

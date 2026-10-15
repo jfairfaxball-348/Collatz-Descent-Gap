@@ -1,9 +1,0 @@
-=== z=41 ===
-Z=41 XMAX=9 YMAX=8 max_tail=37 expected=37 calls=731163 max_v=10 min_precision=51 max_depth=37 ambiguous=0 seconds=0.060551
-PASS
-=== z=43 ===
-Z=43 XMAX=11 YMAX=10 max_tail=50 expected=50 calls=18678887 max_v=12 min_precision=40 max_depth=50 ambiguous=0 seconds=1.37014
-PASS
-=== z=45 ===
-Z=45 XMAX=13 YMAX=12 max_tail=52 expected=52 calls=112561983 max_v=12 min_precision=40 max_depth=52 ambiguous=0 seconds=8.71019
-PASS

@@ -1,2 +1,0 @@
-4c7a972dd8dc43ade1777deb45e48cb5a6c23ebf7601a4704b47131be78e36e1  authoritative/START_HERE.md
-85dfcff840eb30ea7e8034d9abeae3bf2e40aaf40834054f95d27acd09a5b78f  authoritative/RL314_FULL_STRATEGIC_AUDIT_TARGET.md

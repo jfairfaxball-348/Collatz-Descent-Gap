@@ -1,7 +1,0 @@
-RL64 all-word cylinder verifier: PASS
-word identity/legal-cylinder checks = 1022
-dangerous-lift checks = 7154
-exact-valuation lift checks = 5110
-historical phase-numerator congruence checks = 42924
-terminal ownership/backward checks = 3810
-all-11 terminal/LTE checks = 137

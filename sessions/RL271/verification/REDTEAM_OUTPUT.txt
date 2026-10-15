@@ -1,8 +1,0 @@
-RL271 flat A<=18 red team: PASS
-(4, 1) raw 4798 plus 2399 minus 2399 full_D 0 proper_factor_only 514 byA {9: 144, 11: 220, 12: 192, 13: 546, 14: 168, 15: 1080, 16: 512, 17: 1360, 18: 576}
-(3, 1, 1) raw 14672 plus 7336 minus 7336 full_D 0 proper_factor_only 2116 byA {9: 108, 11: 308, 12: 480, 13: 1092, 14: 168, 15: 4140, 16: 1280, 17: 4216, 18: 2880}
-(2, 2, 1) raw 6736 plus 3368 minus 3368 full_D 0 proper_factor_only 718 byA {9: 54, 11: 154, 12: 192, 13: 546, 14: 84, 15: 1950, 16: 640, 17: 2108, 18: 1008}
-(2, 1, 1, 1) raw 16632 plus 8316 minus 8316 full_D 0 proper_factor_only 2294 byA {11: 110, 12: 96, 13: 1014, 14: 168, 15: 4170, 16: 1536, 17: 7378, 18: 2160}
-(1, 1, 1, 1, 1) raw 4354 plus 2177 minus 2177 full_D 0 proper_factor_only 614 byA {12: 48, 13: 52, 14: 28, 15: 960, 16: 416, 17: 1734, 18: 1116}
-negative_sentinel (11, 7, -139, 18904)
-RL271_FLAT_SMALL_REDTEAM_PASS

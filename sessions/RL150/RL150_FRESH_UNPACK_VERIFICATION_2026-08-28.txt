@@ -1,7 +1,0 @@
-RL150 fresh-unpack verification
-
-BASE_HEAD: b1dd9ab899d5c43e2d6553a49d43a27f1a0dee97
-Incoming RL149 sidecar / manifest / fresh-unpack suite: PASS.
-Candidate ZIP SHA-256: 22046930fb34752399c3ffe847b8d955e302c0c5cf29b5359424a090d227f4dc
-Transport reconstruction, fresh manifest, and RL150 fast verifier: PASS.
-Scope: multi-excursion local-independence barrier only.

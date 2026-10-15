@@ -1,5 +1,0 @@
-RL38 scaled-gap telescoping / crossing-charge verifier: PASS
-canonical excursions checked through area 15 = 148520
-no integer sign-changing excursion for area <= 6
-unique area-7 crossing = 000011 / 101000, gap 1 -> -1, J=64/9
-analytic crossing consequence certified symbolically: r_cross >= max(7,c_pre+2)

@@ -1,3 +1,0 @@
-RL19 global odd-step product verifier: PASS
-exact product word checks: 1625
-positive integer-cycle word checks: 10

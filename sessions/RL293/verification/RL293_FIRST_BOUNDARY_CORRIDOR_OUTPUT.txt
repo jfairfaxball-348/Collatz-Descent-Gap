@@ -1,7 +1,0 @@
-RL293 first-boundary normalized-K corridor regression: PASS
-sampled_normalized_K_transition_checks= 7968
-lambda= 0.7095112913514545
-immediate_danger_family_checked_R=3..39_odd
-mod3_allowed_classes=R mod 6 in {3,5}
-new_corridor_excludes_all_immediate_family_members_R>=5_at_H=R-1
-classification_candidate=FIRST_BOUNDARY_NORMALIZED_K_CORRIDOR_AND_HIGH_WEIGHT_DANGER_REDUCTION

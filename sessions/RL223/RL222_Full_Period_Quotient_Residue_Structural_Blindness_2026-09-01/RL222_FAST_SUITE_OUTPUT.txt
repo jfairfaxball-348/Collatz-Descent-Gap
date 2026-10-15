@@ -1,9 +1,0 @@
-PASS RL222 denominator-separation / quotient-residue blindness verifier
-D_mod_2^76=67904378415918967567359 root_upper=31285589992934194300574 gap=36618788422984773266785
-witness Q16=43079489 k=28821 eta=3722043165201 y0=24921895945404894117887
-qfull_mod_D2=exact_D_times_y0_on_physical_realization no_wrap=true
-local_2adic_tail_prefix_selector=AUTOMATIC candidate_deletions=0 rank_exclusions=0
-PASS RL222 proof-state / unique-successor verifier
-completed_rl=222 incoming_rl=223 target_count=1
-candidate_deletions=0 prefix_deletions=0 rank_exclusions=0
-gates=open knowledge_catalogue=stale/deferred

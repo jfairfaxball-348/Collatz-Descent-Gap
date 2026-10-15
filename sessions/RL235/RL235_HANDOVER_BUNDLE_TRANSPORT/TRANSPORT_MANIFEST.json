@@ -1,9 +1,0 @@
-{
-  "canonical_zip": "RL234_Stop_and_Repair_RL231_Charging_Coverage_2026-09-02.zip",
-  "canonical_zip_sha256": "ca4e61c9404e565957f67d4d11d63d9a28fa0de4c1b5af29277dc5b45624435d",
-  "completed_package_tree": "2eb4a804304dba82ee98ce778c31c10cc031322b",
-  "completed_rl": 234,
-  "incoming_rl": 235,
-  "incoming_status": "NOT STARTED",
-  "transport": "lossless_git_tree_plus_deterministic_reconstruction"
-}

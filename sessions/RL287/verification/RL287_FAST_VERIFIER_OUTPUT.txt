@@ -1,8 +1,0 @@
-RL287 fast verifier: PASS
-first_return_excursions=13909
-one_zero_excursions=199
-cylinder_isometry_excursions=13909
-boundary_affine_checks=10000
-direct_terminal_odd_k_cases=39
-boundary_110_beta3_families=5
-failures=0

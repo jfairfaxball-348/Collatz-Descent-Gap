@@ -1,8 +1,0 @@
-RL292 D-resonance + checkpoint-8 low-cost kernel regression: PASS
-D_identity_checks= 6185
-column_counts= {(0, 0): 1600, (1, 1): 1600, (0, 1): 1592, (1, 0): 1393}
-checkpoint8_first_returns_below_height8= [(5, 2, '001'), (12, 2, '011')]
-offboundary_states_examined_below_height8= 30
-boundary5_trace= (5, 3)
-boundary5_even_exits= (2, 8)
-analytic_candidate=CHECKPOINT8_TRANSFORMED_SHADOW_RESONANCE_NORMAL_FORM_AND_HEIGHT_GAP_PROVED

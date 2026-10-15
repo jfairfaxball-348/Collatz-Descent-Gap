@@ -3,7 +3,7 @@ message: "If you use or discuss this research repository, please cite it using t
 authors:
   - family-names: "Fairfax-Ball"
     given-names: "John"
-title: "Collatz / 3n+1 Research Repository"
+title: "Collatz Descent Gap Programme: From Almost-Everywhere to Universal Descent"
 type: software
-repository-code: "https://github.com/jfairfaxball-348/Proof-that-non-trivial-cycles-cannot-exist-in-Collatz"
+repository-code: "https://github.com/jfairfaxball-348/Collatz-Descent-Gap"
 license: "MIT AND CC-BY-4.0"

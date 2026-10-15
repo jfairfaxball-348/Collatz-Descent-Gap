@@ -1,4 +1,0 @@
-RL120 outer sidecar: PASS
-RL120 fresh-unpack internal manifest: PASS
-RL120 cocycle barrier verifier: PASS
-Incoming RL119 authoritative snapshot unchanged at BASE_HEAD: PASS

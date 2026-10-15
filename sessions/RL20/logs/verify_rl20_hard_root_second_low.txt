@@ -1,7 +1,0 @@
-RL20 hard-root second-low verifier: PASS
-root factor = 8/9
-universal close factor = 4/3
-root*close = 32/27
-(32/27)^9*(1-3/2^71) > 23/5 = True
-conditional huge branch: lambda >=32/27 => L > 1 + 6R#/5
-otherwise an additional plateau with 2^(s+t) < 3^s is necessary

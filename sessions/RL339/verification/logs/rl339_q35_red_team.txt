@@ -1,5 +1,0 @@
-red_team_layer 5 (196, 64120, 299, 154, 39)
-red_team_layer 6 (168, 140992, 20, 14, 28)
-red_team_layer 7 (112, 209938, 2, 1, 4)
-red_team_layer 8 (56, 271326, 0, 0, 0)
-CRITICAL_Q35_RED_TEAM_GREEN

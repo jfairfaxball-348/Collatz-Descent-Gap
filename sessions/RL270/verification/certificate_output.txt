@@ -1,7 +1,0 @@
-RL270 certificate: PASS
-pairs = 2234 max_A = 690
-raw_gap_states = 618391058390
-structural_states = 10760234210 {'antipodal': 7097775603, 'long': 3117265503, 'short': 6563699, 'interlaced': 538629405}
-mitm_residues = 14539631 {'antipodal': (4489399, 4489399), 'long': (2798156, 1107046), 'short': (72715, 150525), 'interlaced': (53541, 1378850)}
-full_D_hits = 0
-RL270_CERTIFICATE_PASS

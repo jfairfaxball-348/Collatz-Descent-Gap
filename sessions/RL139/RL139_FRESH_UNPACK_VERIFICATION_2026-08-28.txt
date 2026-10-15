@@ -1,5 +1,0 @@
-RL139 fresh-unpack verification: PASS
-BASE_HEAD: 350180e84d18661925519b901e824d51087f7a5d
-Bundle SHA-256: 39205cf0822c3ac0e924551ec3cf1e43e47aa0e5503c6d5916458d267600b25a
-Outer sidecar, fresh unzip, manifest, fast verifier, and ASCII transport/CRC: PASS.
-Scope: compressed family exclusion only; no frontier/global closure.

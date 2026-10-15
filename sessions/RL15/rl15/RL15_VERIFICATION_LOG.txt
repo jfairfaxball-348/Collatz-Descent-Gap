@@ -1,7 +1,0 @@
-RL-15 j=1 P3 short-defect closure verifier: PASS
-structural parameter checks: 7881
-kappa(1/4) = 0.3190179770821818073674809793042585847805354071270259224263564333563764026745999282134901791799061065
-uniform exponential margin used: 0.31*B
-LMN cutoff L<: 42000
-finite coprime first-congruence parameter pairs checked: 19161
-finite resultant-barrier survivors: []

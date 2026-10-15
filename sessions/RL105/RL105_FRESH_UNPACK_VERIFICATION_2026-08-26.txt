@@ -1,4 +1,0 @@
-RL104 denominator/cylinder CRT audit: PASS
-exact CRT residue-pair checks = 890997
-RL104 owned transport division: PASS
-owned word/split checks = 72

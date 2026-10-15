@@ -1,3 +1,0 @@
-RL165 fresh-unpack verification record
-
-The outer sidecar is checked before unpacking. A fresh directory must pass the internal manifest and the fast report verifier. This file deliberately contains no self-referential outer ZIP digest.

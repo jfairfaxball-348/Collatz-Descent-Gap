@@ -1,6 +1,0 @@
-PASS RL63 even-exit selector checks
-T_transition_and_K_delta_sample PASS
-synchronized_affine_macros_checked 2800
-unrestricted_all11_family_cases 136 min_v2_minus_H 1
-reachable_sharp_equality_state 1 3 8 K 3 v2 3
-10_margin_invariance PASS

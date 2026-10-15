@@ -1,3 +1,0 @@
-RL47 witness A,L,t= (65, 41, 2) proper-factor PASS phase_remainder= 376868488885368828
-RL45 countermodel A,L,t= (65, 41, 0) proper-factor PASS phase_remainder= 91669616806734936
-RL48 four-swap/factorization verifier: PASS

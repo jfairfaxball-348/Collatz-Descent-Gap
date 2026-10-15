@@ -1,1 +1,0 @@
-t 16 total 3886879 peak 28839 macro_starts 1087639 macro_steps 69864451 hull_prune 49281551 res_prune 1111213 hit 0 minH -1 secs 17.4383

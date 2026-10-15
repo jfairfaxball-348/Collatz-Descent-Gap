@@ -1,5 +1,0 @@
-RL20 repaired final-return / CF decoupling verifier: PASS
-hard-root witness R# = 2361183241434822606907
-(n,t)=(1,1): q_close = 1574122160956548404605 u_close-R# = 787061080478274202302
-(n,t)=(2,3): q_close = 2098829547942064539473 u_close-R# = 6034134950333435550984
-large recorded CF classes excluded by endpoint address alone = 0

@@ -1,9 +1,0 @@
-RL290 fast verifier: PASS
-analytic_merger_family_cases=8
-height_one_launchpad_cases=1029
-height_one_shell_survivors=686
-stripped_unit_suffix_cases=1250
-boundary_loop_iterations=81
-extremal_chain=2514->5378->21842->8192
-nested_jump=1074:2->1364:11
-scope=regression_support_only

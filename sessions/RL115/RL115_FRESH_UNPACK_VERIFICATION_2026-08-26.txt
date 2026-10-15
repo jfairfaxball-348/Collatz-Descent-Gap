@@ -1,4 +1,0 @@
-RL115 outer sidecar: PASS
-RL115 fresh-unpack internal manifest: PASS
-RL115 Fourier barrier verifier: PASS
-Incoming RL114 authoritative snapshot unchanged at BASE_HEAD: PASS

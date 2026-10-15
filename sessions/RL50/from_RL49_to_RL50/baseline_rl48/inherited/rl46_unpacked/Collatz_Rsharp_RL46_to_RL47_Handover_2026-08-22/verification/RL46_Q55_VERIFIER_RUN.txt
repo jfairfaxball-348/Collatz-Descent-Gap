@@ -1,2 +1,0 @@
-PAIR (149, 94, 55) total 7157312 peak 165496 hits [] violations [] equalities [] secs 21.025813102722168
-RL46 Q55 BOUNDARY VERIFIER PASSED

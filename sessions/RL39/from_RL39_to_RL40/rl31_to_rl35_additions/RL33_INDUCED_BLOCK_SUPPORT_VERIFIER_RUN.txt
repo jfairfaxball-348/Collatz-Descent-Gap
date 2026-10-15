@@ -1,9 +1,0 @@
-RL33 induced-block supporting-line verifier: PASS
-W = 64*R*(729*R + 1085)/(729*(4*R - 1)*(16*R - 7))
-K=T^9/W^5 >1 and decreasing
-forced successor: II k=3,h=1 -> next low-chain length k=2
-global asymptotic coefficient = 0.246695135895363142066617245664939338702969646678480048509002
-R0*C_exact(R0) interval = 0.246695135895363142066670440136178673495653619452071580016474 0.246695135895363142066670440136178673495653619452071580016474
-rigorous qmax = 57594668837
-therefore q=L/gcd(A,L) >= 57594668838
-first convergent denominator beyond qmax = (103768467013, 65470613321, False)

@@ -1,7 +1,0 @@
-PASS RL276 absolute reconstruction/barrier verifier
-full_modulus_checks=2238
-archimedean_checks=144
-pump_box_checks=38922
-classification=GATE_A_EXACT_BARRIER
-subordinate=ABSOLUTE_QUOTIENT_RECONSTRUCTION_IDENTIFIED
-subordinate=ZERO_CARRY_PHYSICAL_BOX_INSUFFICIENT_FOR_PUMP_SCALE

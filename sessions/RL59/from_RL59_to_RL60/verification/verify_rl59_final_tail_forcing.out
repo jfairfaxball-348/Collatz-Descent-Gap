@@ -1,5 +1,0 @@
-RL59 final synchronized-tail forcing verifier: PASS
-M00_final > 45/8 = 5.625
-S11_final  > 503316463/83886080 = 5.999999797344207 > 17/3
-forced final-tail events: #00 >=10, #11 >=16, total columns >=26
-forced maximal aligned 00-runs: >=5

@@ -1,9 +1,0 @@
-{
-  "canonical_zip": "RL233_Finite_Modulus_Decomposition_and_Owned_Macro_Reset_Pivot_2026-09-02.zip",
-  "canonical_zip_sha256": "1a6953a1294b2df771721886d799e6683fb56a11c93eefaa8bd6b19f3fc418aa",
-  "completed_package_tree": "f684a02668a6be4c9ead6105ddb5c699ad5bb518",
-  "completed_rl": 233,
-  "incoming_rl": 234,
-  "incoming_status": "NOT STARTED",
-  "transport": "lossless_git_tree_plus_deterministic_reconstruction"
-}

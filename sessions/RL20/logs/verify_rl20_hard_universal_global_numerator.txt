@@ -1,4 +1,0 @@
-RL20 hard-universal global-numerator verifier: PASS
-exhaustive fixed-endpoint word checks = 511
-61/36 - 3(2/3)^L > 5/3 for all tested L>=12
-near-resonant defect coefficient = 25/16

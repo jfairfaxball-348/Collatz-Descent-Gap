@@ -1,9 +1,0 @@
-Collatz_Rsharp_RL45_Research_Output_2026-08-22.zip: OK
-README_START_HERE.md: OK
-RL45_RESEARCH_PROGRESS_2026-08-22.md: OK
-RL45_TERMINAL_VALUATION_REDUCTION.md: OK
-RL45_RESULTANT_REDUCTION_AND_OBSTRUCTION.md: OK
-verify_rl45_terminal_H23.py: OK
-verify_rl45_resultant_obstruction.py: OK
-run_all_rl45_progress_verifiers.sh: OK
-RL45_VERIFIER_RUN.txt: OK

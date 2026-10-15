@@ -1,7 +1,0 @@
-RL339_REPAIRED_FRESH_UNPACK_GREEN
-outer_sha256 bbc07e3ad32ed1119ed861c9bfb3317c4be1af91b7e7d619ccf390c15715076c
-internal_manifest_entries 67
-source_unpacked_identity MATCH
-unique_target 1
-verify_rl339_fast.py: PHASE42_CAP_GREEN
-red_team_rl339.py: PHASE42_RED_TEAM_GREEN

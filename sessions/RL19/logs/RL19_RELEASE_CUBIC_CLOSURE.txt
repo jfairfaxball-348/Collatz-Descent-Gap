@@ -1,9 +1,0 @@
-RL19 cubic-skew analytic-closure verifier: PASS
-weak-interlacing gap checks: 90300
-admissible parameter checks: 699
-k-sector geometrically realizable gap checks: 699
-Eisenstein lift checks: 18047
-Eisenstein coefficient-size checks: 34155
-RL10-convention cubic structural checks: 1359
-equal-gap structural nonprimitivity checks: 30
-end-to-end proof-route classifications: {'gap_a_boundary': 2844, 'interior': 10893, 'k1_extreme': 87, 'k3_extreme': 2610, 'equal': 104}

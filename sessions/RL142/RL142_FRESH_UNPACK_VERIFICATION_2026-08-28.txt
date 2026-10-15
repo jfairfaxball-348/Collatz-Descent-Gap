@@ -1,7 +1,0 @@
-RL142 fresh-unpack verification
-
-Incoming RL141 ASCII transport, fresh unzip, manifest, and fast verifier: PASS.
-Candidate ZIP SHA-256: 9537b9b2e8c34b8211e4160643693e7975dc0cb260ffcc4a11834e6d525d8e1b
-Candidate ASCII transport reconstruction: PASS.
-Fresh unzip, internal SHA256SUMS.txt (10 files), and RL142 fast verifier: PASS.
-Incoming authoritative snapshot remained unchanged during construction.

@@ -1,7 +1,0 @@
-RL37 g=2 sign-reversal / half-population bridge verifier: PASS
-canonical positive excursions checked through area 15 = 148520
-strong envelopes E(13),E(14),E(15) = 8713/1215 8929/1080 9121/1024
-viable area partitions at rho=14 = [(14,)]
-viable area partitions at rho=15 = [(15,), (14, 1), (13, 2)]
-first reduced near-resonant pair = (46, 29)
-certified low-transport consequence: rho >= 16

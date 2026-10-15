@@ -1,5 +1,0 @@
-RL20 near-resonant gcd-block geometry verifier: PASS
-integer one-sided imbalance implication checked
-balanced cut is necessarily odd because x < 2R#
-first narrow undercritical rescue reaching 2^71 = (195, 123)
-CF-induced reduced block length a >= 78450472029

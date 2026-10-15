@@ -1,5 +1,0 @@
-RL170 fresh-unpack verification record
-
-The outer sidecar is checked before a clean unpack. The clean unpack must
-pass the internal manifest and the fast report verifier. No outer ZIP digest
-is self-referenced here.

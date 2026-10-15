@@ -1,9 +1,0 @@
-RL42 lightweight rho>=28 verifier: PASS
-complete e<=3 excursions checked for p<=28 = 43996
-reduced e<=3 skeletons = 8 (correct count: eight)
-e=4 words checked for p<=23 = 124456
-distinct e=4 (p,D,h) types = 124225
-crossing-capable e=4 types = 19 all require gap 1 -> -4
-pre-crossing e=0 reachable odd gaps = 19
-new reachable-state insertions = 41
-certified consequence from analytic P>=23 + bounded certificate: rho >= 28

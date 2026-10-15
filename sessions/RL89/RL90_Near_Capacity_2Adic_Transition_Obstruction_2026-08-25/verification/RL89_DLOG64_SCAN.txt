@@ -1,4 +1,0 @@
-RL89 dlog64 scan |m|<2^29, 1<=a<=42150931629
-candidate_count=2
-candidate m=101319985 a=27039197284
-candidate m=303959955 a=27039197283

@@ -1,8 +1,0 @@
-RL34 type-II continuation / induced-superblock verifier: PASS
-support valid for R>=800; CF application uses inherited external R>=2^71
-S = (531441*R + 1568693)/(531441*R)
-global asymptotic coefficient = 0.246297537816914843649363119811003750256055595194690978857628
-R0*C_exact(R0) interval = 0.246297537816914843649260058237066323811100263723397195375418 0.246297537816914843649260058237066323811100263723397195375418
-rigorous qmax = 57641137624
-therefore q=L/gcd(A,L) >= 57641137625
-first convergent denominator beyond qmax = (103768467013, 65470613321, False)

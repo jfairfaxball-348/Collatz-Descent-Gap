@@ -1,2 +1,0 @@
-collected=311208 baseline=51 split=10
-split_exact Z=41 X=8 Y=17 max=70 tasks=311208 split=10 threads=5 sec=147.547

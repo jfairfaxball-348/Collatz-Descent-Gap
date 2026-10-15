@@ -1,4 +1,0 @@
-RL114 outer sidecar: PASS
-RL114 fresh-unpack internal manifest: PASS
-RL114 barrier verifier: PASS
-Incoming RL113 authoritative snapshot unchanged at BASE_HEAD: PASS

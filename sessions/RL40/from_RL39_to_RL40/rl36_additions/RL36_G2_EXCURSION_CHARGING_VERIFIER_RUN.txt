@@ -1,7 +1,0 @@
-RL36 g=2 excursion charging / factor-recovery verifier: PASS
-exhaustive equal-weight word-pair checks = 65174
-RL21 countermodel excursions = [(2, 63, 61, 39, 1)]
-one-excursion charged weight = 39
-ell-v2(G)-v3(G) = 39
-relative two-rotation gcd cofactor G_odd = 1
-RL21 countermodel transport area rho = 170

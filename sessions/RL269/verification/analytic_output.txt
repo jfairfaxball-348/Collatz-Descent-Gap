@@ -1,7 +1,0 @@
-RL269 analytic finite reduction: PASS
-stern_brocot_rows = 36
-coarse_survivors = 7
-pairs = 2234
-max A = 690
-naive_two_order_gap_configurations = 618391058390
-RL269_ANALYTIC_PASS

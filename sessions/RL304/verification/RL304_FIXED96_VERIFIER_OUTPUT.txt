@@ -1,8 +1,0 @@
-RL304_FIXED96_CLOSEOUT_GREEN
-formula_checks 100
-six_column_grammar_checks 6400
-zero_relative_cost_checks 6400
-whole_stack_witness_checks 7
-compositional_witness_checks 6
-O1 OPEN
-Gate_A OPEN

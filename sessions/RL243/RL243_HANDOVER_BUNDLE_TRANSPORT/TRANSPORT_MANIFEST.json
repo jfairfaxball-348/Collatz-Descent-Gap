@@ -1,8 +1,0 @@
-{
-  "completed": "RL242",
-  "incoming_classification": "R4_BRIDGE_REDUCED",
-  "canonical_rl242_zip_sha256": "e59bc4f369d5de0d172696fd9d77c2f2ad795bf1b66c92774f7dd7dccd2e95ef",
-  "status": "NOT STARTED",
-  "successor": "RL243",
-  "target": "RL243_DOUBLE_DEEP_COUNTERFLOW_RADIUS4_CLOSURE_TARGET.md"
-}

@@ -1,8 +1,0 @@
-PASS RL204 strategic-review invariant certificate
-inherited_rank_count=16188727234
-new_mathematical_theorems=0
-new_rank_exclusions=0
-inherited_demotion=no
-h21_status=retained_viable_not_automatic_next
-decision=pivot_now_to_RL205_route_tournament
-successor=RL205

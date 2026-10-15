@@ -1,3 +1,0 @@
-RL336_RED_TEAM_GREEN
-prefix_minima 1244028314838852758759941 1330277458523593058251285 graph 2242 potential_range 0 43
-zero_run_max_witnesses 229 234

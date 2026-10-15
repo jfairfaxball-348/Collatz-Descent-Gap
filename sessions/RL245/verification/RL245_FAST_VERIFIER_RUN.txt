@@ -1,5 +1,0 @@
-RL245 closeout repair verifier: PASS
-deterministic_J_step_checks= 6983
-same_root_negativity_checks= 400
-prefix_height_identity_checks= 330818
-classification=R4_BRIDGE_REDUCED

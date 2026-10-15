@@ -1,7 +1,0 @@
-RL316 row-energy regression: PASS
-general canonical words checked: 2645
-g=2 row pairs checked: 224325
-RL316 g=2 dual-shadow regression: PASS
-ordered bounded row pairs checked: 111350
-RL21 H-factor saturation replay: PASS
-RL38 area-seven saturation replay: PASS

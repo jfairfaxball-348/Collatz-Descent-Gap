@@ -1,9 +1,0 @@
-RL35 anchor-run charging verifier: PASS
-analytic support/charging threshold R >= 10000
-Q = (2000*R + 1)/(2000*R)
-allowed 3/4/5 anchor words = {3: ['SSS', 'SST', 'STS', 'TSS', 'TST', 'TTS', 'TTT'], 4: ['SSSS', 'SSST', 'SSTS', 'STSS', 'TSSS', 'TSST', 'TSTS', 'TTSS', 'TTST', 'TTTS'], 5: ['SSSST', 'SSSTS', 'SSTSS', 'STSSS', 'TSSSS', 'TSSST', 'TSSTS', 'TSTSS', 'TTSSS', 'TTSST', 'TTSTS', 'TTTSS']}
-global asymptotic coefficient = 0.245797537816914843649363119811003750256055595194690978857628
-R0*C_exact(R0) interval = 0.245797537816914843649259998942518764958307862458292515881287 0.245797537816914843649259998942518764958307862458292515881287
-rigorous qmax = 57699734482
-therefore q=L/gcd(A,L) >= 57699734483
-first convergent denominator beyond qmax = (103768467013, 65470613321, False)

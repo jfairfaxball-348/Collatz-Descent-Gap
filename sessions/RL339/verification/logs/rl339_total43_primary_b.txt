@@ -1,4 +1,0 @@
-pair (21, 22, 25, 2789, 1593, 2789, 85, 0)
-pair (22, 21, 26, 2899, 1796, 2899, 118, 0)
-total_pairs 2 templates 51 candidates 5688 owned 3389 unresolved 0
-RL339_PROMOTED

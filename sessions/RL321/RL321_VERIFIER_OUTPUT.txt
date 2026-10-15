@@ -1,5 +1,0 @@
-RL321_CANONICAL_RESIDUAL_VERIFIER_GREEN
-ordinary_tail_cases 1023
-residue_saturation_s_max 6
-matched_rank_a_max 8
-negative_corner_h_range 40..60

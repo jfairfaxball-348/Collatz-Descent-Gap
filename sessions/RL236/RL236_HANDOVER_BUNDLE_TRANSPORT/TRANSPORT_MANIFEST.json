@@ -1,9 +1,0 @@
-{
-  "canonical_zip": "RL235_Repaired_Sparse_Family_Charging_and_H20_185_Target_2026-09-02.zip",
-  "canonical_zip_sha256": "94ba303becdc2c7a81db081f7e1968861e230f5cc3df28c8c88ed631440297e2",
-  "completed_package_tree": "5c6875cf6ed924627dbaa03f19fbc1a0ef5746a2",
-  "completed_rl": 235,
-  "incoming_rl": 236,
-  "incoming_status": "NOT STARTED",
-  "transport": "lossless_git_tree_plus_deterministic_reconstruction"
-}

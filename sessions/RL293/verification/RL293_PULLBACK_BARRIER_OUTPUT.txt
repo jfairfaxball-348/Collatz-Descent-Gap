@@ -1,7 +1,0 @@
-RL293 danger-tree pullback/support barrier regression: PASS
-static_and_pullback_identity_checks= 403
-fixed_seed_witness_endpoint=(d1,J3,H4)
-witness_rank_displacements= [0, 3, 1]
-witness_displaced_rank_support=2
-witness_boundary_Beta=3
-classification_candidates=FIXED_SEGMENT_STATIC_DANGER_TREE_ODD_AFFINE_PULLBACK_ISOMETRY;DANGER_TREE_SUPPORT_COUNT_AND_EXCURSION_COUNT_CHARGE_BARRIER

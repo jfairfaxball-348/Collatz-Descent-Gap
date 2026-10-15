@@ -1,4 +1,0 @@
-RL18 global orbit-sum identity verifier: PASS
-Q<->Z word checks: 1623
-shift recurrence point checks: 121854
-orbit polynomial reconstructions: 22690

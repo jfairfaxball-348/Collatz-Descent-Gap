@@ -1,7 +1,0 @@
-PASS RL266 independent A<=18 [3,2] red team
-raw_[3,2]_A_le_18=10382
-abs_kappa1_[3,2]_A_le_18=4774
-kappa_plus=2387 kappa_minus=2387
-full_D_hits_abs_kappa1=0
-proper_factor_instances_abs_kappa1=346
-REDTEAM_RL266_PASS

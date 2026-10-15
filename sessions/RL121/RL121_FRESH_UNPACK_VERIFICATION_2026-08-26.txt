@@ -1,5 +1,0 @@
-RL121 outer sidecar: PASS
-RL121 fresh-unpack internal manifest: PASS
-RL121 return-policy registry barrier verifier: PASS
-Incoming RL120 authoritative snapshot unchanged at BASE_HEAD 1c2da4dc6d84d2d38abd2b7c756a455cee3432f6: PASS
-RL121 bundle SHA-256: 1bbd3f5d75d889a0aef1e1c8c3ba0359e732d9464993e969cf67f32198f149e8

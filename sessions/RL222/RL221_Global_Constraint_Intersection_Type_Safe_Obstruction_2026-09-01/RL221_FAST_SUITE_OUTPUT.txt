@@ -1,9 +1,0 @@
-PASS RL221 type-safe constraint-intersection witness verifier
-Q16=43079489 k=28821 eta=3722043165201
-y0=24921895945404894117887 state=011 mod18=9 nu=3
-phase51_survives=true minimum_height=1 root_v2=1
-selected_constraint_intersection=NONEMPTY candidate_deletions=0 rank_exclusions=0
-PASS RL221 proof-state / unique-successor verifier
-completed_rl=221 incoming_rl=222 target_count=1
-intersection_nonempty=true type_guard=true
-candidate_deletions=0 rank_exclusions=0 gates=open

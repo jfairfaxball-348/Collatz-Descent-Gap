@@ -1,9 +1,0 @@
-{
-  "base_head": "478e5cace212ed60cfb8cca56ccd3496c8381b68",
-  "format": "rl215-connector-lossless-transport-v1",
-  "freeze_session_path": "sessions/RL214",
-  "incoming_authoritative_tree": "5f0b71bb04c21f2e0654d658a932ca4432ebfaee",
-  "repository": "jfairfaxball-348/Proof-that-non-trivial-cycles-cannot-exist-in-Collatz",
-  "successor_completed_rl": 215,
-  "successor_incoming_rl": 216
-}

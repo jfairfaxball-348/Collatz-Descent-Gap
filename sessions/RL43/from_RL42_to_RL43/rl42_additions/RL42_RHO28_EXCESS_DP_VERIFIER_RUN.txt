@@ -1,9 +1,0 @@
-RL42 rho=28 excess-DP elimination verifier: PASS
-local words streamed through e<=5,p<=24 = 1061552
-e=4 crossing types = 20 all require incoming gap 1
-e=5 crossing types = 42 all require incoming gap 1
-Case I states/endpoints = 6613 134 near pairs = [(46, 29), (65, 41)] all P+=23
-Case IIa states/endpoints = 46 0 near pairs = none
-Case IIb states/endpoints = 5445 123 near pairs = [(46, 29)] with P+=23
-exact resonance bound forces P+>=24 at (46,29) and (65,41)
-certified consequence: rho != 28, hence together with rho>=28, rho >= 29

@@ -1,7 +1,0 @@
-RL329_THREE_POSITIVE_OWNERSHIP_VERIFIER_GREEN
-three_positive_counts {47: 288, 48: 104, 49: 44, 50: 20, 51: 5, 52: 2}
-three_positive_survivors 463
-three_positive_max_zero_total 52
-three_positive_exact_links 2
-three_positive_pair_links {((2, 45), (45, 2))}
-N49_to_N49_survivors 0

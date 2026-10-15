@@ -1,6 +1,0 @@
-RL20 global continued-fraction gate verifier: PASS
-R0 = 2361183241434822606848
-rigorous qmax = 49547666543
-therefore reduced odd-count denominator q=L/gcd(A,L) >= 49547666544
-above-beta convergents excluded through qmax = [(2, 1), (8, 5), (65, 41), (485, 306), (24727, 15601), (125743, 79335), (301994, 190537), (17087915, 10781274), (272500658, 171928773), (630138897, 397573379), (10439860591, 6586818670)]
-first convergent denominator beyond qmax = (103768467013, 65470613321, False)

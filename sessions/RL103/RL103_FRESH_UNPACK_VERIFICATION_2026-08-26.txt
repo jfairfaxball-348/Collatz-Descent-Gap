@@ -1,4 +1,0 @@
-RL102 prefix/suffix and excursion verifier: PASS
-word/split checks = 81792
-owned closure checks = 72
-generalized witness increment = 1697535785403803429530459988901995256069001612190296230341

@@ -1,9 +1,0 @@
-RL56 aggregate potential / legal-prefix theorem: PASS
-Xi terminal ceiling < 68/5 and Psi terminal ceiling <= 153/20: PASS
-old legal-26 maximizer endpoint Xi = 18.382351479781132 > 68/5, so it cannot extend to terminal
-terminal-compatible legal first-26 mass <= 107/10 = 10.7
-new required late mass > 73/60 = 1.2166666666666666
-decision-search nodes = 4047988 memo states = 853969
-prunes: Xi= 8 PsiCap= 0 futureUB= 1342708 PsiFuture= 28785
-negative-cycle barrier: after 26 neutral macros Zpre= 5.7193366744901315 Psi= -0.2806633255098688
-therefore the new scalar potential alone does not yet prove late mass < 73/60

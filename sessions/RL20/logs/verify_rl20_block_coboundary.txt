@@ -1,2 +1,0 @@
-RL20 canonical block-coboundary verifier: PASS
-exact rational word/block checks: 2645

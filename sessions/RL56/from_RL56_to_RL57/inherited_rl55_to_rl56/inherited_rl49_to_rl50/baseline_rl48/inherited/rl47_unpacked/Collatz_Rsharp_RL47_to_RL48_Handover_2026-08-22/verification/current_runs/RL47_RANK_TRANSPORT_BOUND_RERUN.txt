@@ -1,9 +1,0 @@
-RL47 rank-transport identity witness: PASS
-witness H=sum(a_j-b_j)= 104
-witness normalized terminal identity: exact PASS
-pair (46, 29, 17) strict-violation t excluded analytically from 2 through 16
-pair (65, 41, 24) strict-violation t excluded analytically from 2 through 22
-pair (149, 94, 55) strict-violation t excluded analytically from 32 through 54
-pair (214, 135, 79) strict-violation t excluded analytically from 60 through 78
-pair (363, 229, 134) strict-violation t excluded analytically from 116 through 132
-RL47 rank-transport relaxed-bound verifier: PASS

@@ -1,4 +1,0 @@
-RL20 final-return phase-compatibility verifier: PASS
-n_close=1 address: R mod9=1 -> t=1 mod6; R mod9=7 -> t=3 mod6
-hard-root classes mod144 = [43, 91]
-unique t_close=1 hard class mod144 = 91

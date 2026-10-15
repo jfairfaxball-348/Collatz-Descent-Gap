@@ -1,9 +1,0 @@
-RL20 bounded-bridge countermodel verifier: PASS
-A,L,D = 184 116 2334616309231614197768369354039452620227287343359226095
-primitive = True
-explicit endpoint-compatible R# = 2361183241434822606907
-distinguished pair distances = {(0, 3): 20, (0, 182): 48, (3, 182): 28}
-endpoint-neighbourhood minimum distance = 20
-all-rotation minimum distance = 4 at shifts (0, 19)
-Q mod D = 322171738410077807581692882247758374512983113782519312
-D divides Q = False

@@ -1,5 +1,0 @@
-RL163 fresh-unpack verification record
-
-The outer ZIP sidecar is checked before unpacking. In a newly created empty directory, verify the internal manifest and run `python3 verify_rl163_report.py .`. The close-out command transcript is reproduced from that clean unpack after the final bundle is built.
-
-This file contains no self-referential outer ZIP digest.

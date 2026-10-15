@@ -1,8 +1,0 @@
-PASS RL269 independent A<=18 [1,1,1,1,1] red team
-abs_kappa1_[1,1,1,1,1]_A_le_18=8996
-kappa_plus=4498 kappa_minus=4498
-full_D_hits=0
-proper_factor_only=714
-determinant_mismatches=0
-zero_cut_edge_identity_mismatches=0
-RL269_REDTEAM_PASS

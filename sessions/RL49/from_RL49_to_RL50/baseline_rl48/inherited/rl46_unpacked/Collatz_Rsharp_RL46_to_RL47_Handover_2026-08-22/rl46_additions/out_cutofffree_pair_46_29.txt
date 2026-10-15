@@ -1,3 +1,0 @@
-(46, 29, 17) states 61347 secs 0.140031099319458 legal_pump_states 25 rejected_pump_states 29
-hits 0
-[]

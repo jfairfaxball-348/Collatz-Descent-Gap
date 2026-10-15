@@ -1,3 +1,0 @@
-RL335_RED_TEAM_GREEN
-edges 2242 density 0 31 q28 0 28
-N37_self_slack 141 q28 -1 q29 4

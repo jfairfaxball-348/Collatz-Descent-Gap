@@ -1,5 +1,0 @@
-RL18 cubic phase/norm reduction verifier: PASS
-parameter quadruples a<=30: 398
-gap triples checked: 789950
-skew rational norm positivity checks: 789552
-cofactor zeros (all equal-gap): 398

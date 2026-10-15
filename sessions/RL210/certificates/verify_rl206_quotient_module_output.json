@@ -1,9 +1,0 @@
-{
-  "annihilator_coefficient_vectors": 159975,
-  "annihilator_word_modulus_pairs_A_2_to_4_M_1_to_9": 135,
-  "kernel_forcings_A_2_to_5_entries_minus1_to_1": 6984,
-  "matrix_words_A_2_to_9": 778,
-  "quotient_residue_exceptions_D_gt_1": 776,
-  "scope": "exact finite verification at declared ranges",
-  "status": "PASS"
-}

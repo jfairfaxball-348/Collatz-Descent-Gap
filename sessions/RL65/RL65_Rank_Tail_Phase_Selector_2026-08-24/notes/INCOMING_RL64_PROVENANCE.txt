@@ -1,3 +1,0 @@
-Authoritative incoming state: RL64_Full_Phase_Recovery_and_All_Word_Cylinder_Selector_2026-08-24.zip
-Incoming sidecar SHA-256: a8f000eaf0b983017d8fa066b99dcebca4c99c19947571e28459f5ebaf1e872e
-The local incoming ZIP matched its supplied sidecar before RL65 mathematics was used; its internal SHA256SUMS.txt and fast RL64 verifier suite passed. The root RL64 session-state file was byte-identical to the copy inside the incoming ZIP. GitHub authoritative/ exposed the same session-state text and sidecar. The GitHub connector could not decode the binary ZIP as UTF-8, so binary authority is the locally checksum-verified incoming ZIP.

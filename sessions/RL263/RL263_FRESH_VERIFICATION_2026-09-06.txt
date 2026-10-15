@@ -1,9 +1,0 @@
-PASS RL263 physical-gap barrier
-RL262 odd-k quotient cases checked=2976; distinct N=12
-restored exact form: Dcal=C-2^m*G with G=(1+(N-2)*2^(k-1))/3
-therefore Dcal==C mod 2^m in the promoted odd-k scope
-physical two-trajectory prefix checks=933; max legal depth=48
-verified T_p=3^d A_p-B_p and C-S_p=2^p*3^(rho-Y_p)*(B_p-3^(d-1)A_p)
-endpoint algebra checks=608
-ordered dyadic prefix target is automatic on genuine physical full-phase pairs
-FAST_RL263_VERIFIERS_PASS

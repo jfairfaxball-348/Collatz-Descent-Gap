@@ -1,8 +1,0 @@
-PASS RL220 backward pump rigidity / bounded-star support verifier
-live_prefixes=45045 all_root_v2_3y_plus_1=1
-b38=25185954575304774473045 exact_live_window_matches=0
-new_candidate_deletions=0 new_rank_exclusions=0 frontier=13415865871
-PASS RL220 proof-state / unique-successor verifier
-completed_rl=220 incoming_rl=221 target_count=1
-successor=global_constraint_intersection_minimal_contradiction_core
-candidate_deletions=0 rank_exclusions=0 gates=open

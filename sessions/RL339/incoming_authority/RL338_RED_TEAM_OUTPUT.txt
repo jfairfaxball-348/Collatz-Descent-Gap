@@ -1,5 +1,0 @@
-RL338_Q35_RED_TEAM_GREEN
-singleton_max 0
-p_ge_9_worst (-14, 29, 35, 9)
-pairing_worst -6
-final_constant 43

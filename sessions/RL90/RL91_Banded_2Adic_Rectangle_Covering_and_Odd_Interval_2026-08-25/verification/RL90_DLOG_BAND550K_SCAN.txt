@@ -1,7 +1,0 @@
-RL90 band550k 2-adic scan
-modulus_bits=500056
-r_range=0..550000
-global_min_balanced_bitlen=500038 at_r=298303
-tail_min_balanced_bitlen=500041 at_r=519699 tail_start=500001
-certificate: every balanced inverse residue has |mu_r| >= 2^500037
-RL90 band550k 2-adic scan: PASS

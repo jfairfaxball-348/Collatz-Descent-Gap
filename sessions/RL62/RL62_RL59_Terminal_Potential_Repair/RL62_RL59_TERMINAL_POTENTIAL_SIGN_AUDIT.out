@@ -1,8 +1,0 @@
-RL62 RL59 terminal-potential sign audit: PASS
-RL47 witness penultimate state: (58, 37, 2, 64, '10')
-exact Jg / RL59 claimed cap = 9
-exact Jg equals corrected cap: True
-Type-B P_exit = 480
-RL59 old safe cap = 145.36990155689358
-corrected safe cap = 1308.329114012042
-actual future Type-B one counts: x= 77692117359936589347 y= 77692117359936589346 difference= 1

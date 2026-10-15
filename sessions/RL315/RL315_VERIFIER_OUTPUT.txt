@@ -1,3 +1,0 @@
-RL315 portable regression: PASS
-small interface/window words checked: 1112
-fixed-weight Q residues checked: 8166

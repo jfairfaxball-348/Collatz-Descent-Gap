@@ -1,6 +1,0 @@
-RL286 component carry verifier: PASS
-first_return_excursions=13909
-one_zero_excursions=199
-carry_coupon_bridge_failures=0
-height_cell_support_failures=0
-global_gate_A_theorem=NOT_CLAIMED

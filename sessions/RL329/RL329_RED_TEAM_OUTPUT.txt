@@ -1,7 +1,0 @@
-RL329_OWNED_SUCCESSOR_RED_TEAM_GREEN
-rows_pairs_links 7183 231 14
-allowed_large_to_short 286
-states_edges 280 22991
-density_boundary 66
-sharp_total44_cycle_ratio 22
-carry_cap 32562630353

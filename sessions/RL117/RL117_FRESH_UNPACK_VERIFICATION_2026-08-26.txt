@@ -1,4 +1,0 @@
-RL117 outer sidecar: PASS
-RL117 fresh-unpack internal manifest: PASS
-RL117 legal-coordinate barrier verifier: PASS
-Incoming RL116 authoritative snapshot unchanged at BASE_HEAD: PASS

@@ -1,5 +1,0 @@
-layer 5 pairs 196 templates 64120 candidates 299 sources 154 max_escape 39
-layer 6 pairs 168 templates 140992 candidates 20 sources 14 max_escape 28
-layer 7 pairs 112 templates 209938 candidates 2 sources 1 max_escape 4
-layer 8 pairs 56 templates 271326 candidates 0 sources 0 max_escape 0
-CRITICAL_Q35_ESCAPE_GREEN candidates 321 maximum_escape 39

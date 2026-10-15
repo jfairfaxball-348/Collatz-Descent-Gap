@@ -1,6 +1,0 @@
-RL17 full-D sparse structural audit: PASS
-exact gcd(A,L)=3 one-orbit structural solutions audited: 1359
-full-D phase identity checks: 27063
-full-D sparse implication checks: 1359
-equal-spacing full-D factor checks: 1359
-structural cases where the equal-spacing factor vanishes: [(6, 3, 1), (6, 3, 1), (6, 3, 1), (6, 3, 1), (6, 3, 1), (6, 3, 1), (6, 3, 5), (6, 3, 5), (6, 3, 5), (6, 3, 5), (6, 3, 5), (6, 3, 5)]

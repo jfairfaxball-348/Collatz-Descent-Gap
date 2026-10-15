@@ -1,9 +1,0 @@
-RL292 first-positive analytic over-approx H<=26: PASS
-height_cap=26
-relaxed_first_positive_seed_states=6224
-relaxed_positive_physical_states=11380217
-relaxed_power_minima=k1:H2,k3:H2,k5:H8,k7:H14,k9:H14,k11:H17,k13:H17,k15:H21,k17:H24,k19:H25,k21:H23
-k27_checkpoint_under_H26=ABSENT
-proof_logic=every genuine trajectory has a first-positive state contained in relaxed seeds; positive future closure is exhaustive by shortest-path dominance
-classification_candidate=FIRST_POSITIVE_ANALYTIC_OVERAPPROX_H26_K27_GATE_A_CLOSURE
-new_residual_candidate=odd k>=29 with H_can<k

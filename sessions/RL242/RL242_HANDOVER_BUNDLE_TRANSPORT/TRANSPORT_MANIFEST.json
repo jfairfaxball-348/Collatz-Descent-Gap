@@ -1,8 +1,0 @@
-{
-  "canonical_rl241_zip_sha256": "98697aae2b112202b27bb334cbe21126d181182ea8e9f839f703a1b8422017b8",
-  "incoming_classification": "R4_BRIDGE_REDUCED",
-  "incoming_completed_generation": "RL241",
-  "status": "NOT STARTED",
-  "successor": "RL242",
-  "target": "RL242_NINE_LIFT_CANONICAL_DRIFT_RADIUS4_ENCOUNTER_TARGET.md"
-}

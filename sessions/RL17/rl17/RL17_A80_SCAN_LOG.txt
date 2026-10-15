@@ -1,9 +1,0 @@
-RL17 sparse uniqueness finite scan: PASS
-a limit: 80
-admissible (a,ell,m,p) parameter choices: 2785
-ordered positive gap triples tested: 39719443
-cofactor sparse zeros: 2785
-cofactor skew zeros: 0
-full-D sparse zeros: 2
-full-D skew zeros: 0
-full-D zeros: [(2, 1, 1, 1, 2, 2, 2), (2, 1, 5, 3, 2, 2, 2)]

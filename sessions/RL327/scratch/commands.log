@@ -1,7 +1,0 @@
-# Append reproducible commands and outcomes here.
-2026-09-15T08:56:55Z python3 .rl-work/RL327/verify_rl327_singleton_bridge_density.py -> GREEN; 1225 ordered pairs, totals 50..98 complete, candidate cap 32636026682.
-2026-09-15T09:19:42Z earlier scratch singleton counts invalidated by red-team detection of missing initial-endpoint odd parity; no authoritative impact.
-2026-09-15T09:19:42Z python3 .rl-work/RL327/verify_rl327_owned_excess_density.py -> GREEN; singleton and two-positive totals 47..98 complete; candidate cap 32610077995.
-2026-09-15T09:19:42Z python3 .rl-work/RL327/red_team_owned_excess_density.py -> GREEN; factor cells, endpoint parity, two-positive shapes, and all 21805 potential edges checked.
-2026-09-15T09:31:24Z python3 .rl-work/RL327/verify_rl327_owned_excess_density.py -> GREEN; weighted base cap 32603663706 and corrected total-46 fixed-point cap 32596612662.
-2026-09-15T09:31:24Z python3 .rl-work/RL327/red_team_owned_excess_density.py -> GREEN; 2414 bootstrap endpoints, 9 links, weighted and bootstrap caps rederived.

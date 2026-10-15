@@ -1,9 +1,0 @@
-RL156 fresh-unpack verification — 2026-08-28
-
-Outer sidecar: PASS
-Transport reconstruction: PASS
-Fresh unzip: PASS
-Internal SHA256SUMS.txt: PASS
-Fast verifier: PASS
-
-Scope: notation-only correction; no singleton exclusion.

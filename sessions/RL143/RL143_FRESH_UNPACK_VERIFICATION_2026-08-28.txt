@@ -1,7 +1,0 @@
-RL143 fresh-unpack verification
-
-Incoming RL142 transport, manifest, fresh unzip, and fast verifier: PASS.
-Candidate ZIP SHA-256: d724e96083cc90dc194c9238b042a56270d93911f22cdf13953c2b46d7f293c7
-Candidate transport reconstruction: PASS.
-Fresh unpack manifest and RL143 fast verifier: PASS.
-Incoming authoritative snapshot: PASS.

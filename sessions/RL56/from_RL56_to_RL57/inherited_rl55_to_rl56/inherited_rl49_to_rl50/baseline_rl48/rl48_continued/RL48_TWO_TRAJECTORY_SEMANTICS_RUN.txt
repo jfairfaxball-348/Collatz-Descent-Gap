@@ -1,6 +1,0 @@
-RL47 witness A,L,t= (65, 41, 2) proper-factor PASS phase_remainder= 376868488885368828
-RL45 countermodel A,L,t= (65, 41, 0) proper-factor PASS phase_remainder= 91669616806734936
-RL48 four-swap/factorization verifier: PASS
-RL47 witness 2-adic starts 12420100282126270203 12420100282126270207 outputs 12278542781967309506 12278542781967309502 H 104 T semantics PASS
-RL45 countermodel 2-adic starts 1683189705424104707 1683189705424104711 outputs 1664005631094525860 1664005631094525856 H 3 T semantics PASS
-RL48 two-trajectory semantic verifier: PASS

@@ -1,6 +1,0 @@
-positive synchronized pump: PASS
-weights = 7/30, 14/45, 56/135, 224/405
-aligned mass = 245/162 = 1.5123456790123457 > 5/4
-g_out = 448/405 = 1.1061728395061727 < 17/15
-Psi: 7/10 -> 896/405 ; below sharpened cut ceiling 6021340829223696047721014101759/2376844875427930127806318510080 = 2.5333335344990093
-Conclusion: cap + Psi cut + zero defect do not imply M0_late<=5/4; terminal/excursion arithmetic is essential.

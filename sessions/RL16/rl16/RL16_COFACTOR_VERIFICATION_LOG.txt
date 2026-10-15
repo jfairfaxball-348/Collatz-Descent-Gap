@@ -1,4 +1,0 @@
-RL-16 cubic-cofactor sparse-reduction audit: PASS
-exact gcd(A,L)=3 one-orbit structural solutions audited: 1359
-cofactor sparse implication checks: 1359
-exact-third-repeat singularity checks: 1359

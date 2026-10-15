@@ -1,7 +1,0 @@
-RL155 fresh-unpack verification — 2026-08-28
-
-BASE_HEAD: 342d3bd8b82934e923e0e7cbaded77278f02a251
-Outer sidecar, transport reconstruction, fresh unzip, internal manifest, and
-fast verifier: PASS.
-
-Scope: analytic phase-remainder reduction and method boundary; no exclusion.

@@ -1,4 +1,0 @@
-RL334_REFINED_CHARGE_RED_TEAM_GREEN
-states_edges 385 15835
-reverse_density_range 0 31
-reverse_charge_range 0 44

@@ -1,5 +1,0 @@
-# RL273 frozen package checksum
-
-`RL273_Radius5_Local_Theorem_Closure_2026-09-07.zip`
-
-SHA256: `8fe77e1efebdf46e2d9fa9dee6f2a33949eb6e1c07edbfaf547909c796c95156`

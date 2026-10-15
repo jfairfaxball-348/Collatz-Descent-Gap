@@ -1,5 +1,0 @@
-RL42 transport-efficiency bridge verifier: PASS
-equal-weight ordered pairs checked through length 10 = 250952
-verified pure inequality: sum_pos(1-2^-delta) <= rho/2
-RL21 sanity: effective positive-rank mass = 4571/128 threshold = 8027686572813370830182684174087785898715/340282366920938463463374607431768211456 rho = 170
-analytic consequence certified symbolically: rho > (45/4)G; with 4|G, rho >= 46

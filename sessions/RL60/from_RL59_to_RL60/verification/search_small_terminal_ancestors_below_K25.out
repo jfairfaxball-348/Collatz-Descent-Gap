@@ -1,2 +1,0 @@
-B=11184809 first_start_hit=0 hit_state=0 K=0 max_peak_seen=30171305459816 max_path=246
-CERT: every n<=B avoids any terminal-alternative state with odd K>=25 before entering an already-certified no-hit trajectory.

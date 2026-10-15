@@ -1,9 +1,0 @@
-RL332_PAIRWISE_ANCHOR_VERIFIER_GREEN
-zero_sccs 288 cyclic_sccs 16 recurrent_cross 195
-transient_tail_positive 3 4
-pair_gain_lower 0.25120009946627
-rho60_gain 10239722 rhs 32550361321.43585 cap 32550361321
-finite_61_199_min_gain 10239721
-uniform_200_bridge_gain 10239542
-handoff_rho 3607000 ordinary_upper 32550361123.514934403130650090851253575529046655733284226974114149230715060826564
-bootstrap 32550361322 ownership_graph 323 26514

@@ -1,4 +1,0 @@
-RL302_STRUCTURAL_CLOSEOUT_GREEN
-index_shift_samples 198
-first_margin_D3 19
-last_margin_D41 988

@@ -1,8 +1,0 @@
-RL51 z=33 reduced frontier certificate: PASS
-relaxed maximum at p_26=57 = 11.916562271174994 <= 11.916666666666666
-therefore p_26<=56 and u_26<=81
-minimum 11-delayed defect lower bound = 1.9902902123502373 at p_26 = 45
-therefore at most 10 of y_1..y_26 lie after u_26
-LIVE REDUCED TARGET: terminal suffix with <=6 x-zero and <=16 y-zero edges
-This verifier does not eliminate z=33.
-elapsed=0:00.54 maxrss=110520KB

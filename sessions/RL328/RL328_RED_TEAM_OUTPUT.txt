@@ -1,4 +1,0 @@
-RL328_ROUTE_VIABILITY_RED_TEAM_GREEN
-critical_repeatable_ratio 16.333333333333332
-required_ratio_current 0.21777433003982435
-required_ratio_factor2 1.1357780287610304

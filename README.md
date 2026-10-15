@@ -1,76 +1,42 @@
-# Collatz / 3n+1 Research Repository
+# Collatz Descent Gap Programme
 
-This repository contains an ongoing mathematical research project investigating structural approaches to the **Collatz conjecture**, with particular emphasis on ruling out hypothetical non-trivial cycles and understanding the arithmetic constraints such cycles would have to satisfy.
+**Reopened: 15 October 2026. Status: ACTIVE — conjecture OPEN.**
 
-The project is exploratory research rather than a published proof.
+The sole target is to bridge the Terras–Everett theorem that almost all positive integers eventually descend below their starting value to the assertion that **every integer n>1 does**. This is equivalent to the Collatz conjecture, but the research stays strictly on the gap between density-zero exceptions and no exceptions.
 
-For the current incoming handover and the worker-independent RL process, begin at [`START_HERE.md`](START_HERE.md).
-
-## What is in this repository?
-
-The work is organised as a sequence of research sessions. Each session may contain some combination of:
-
-- mathematical derivations and lemmas;
-- exact finite certificates and verification scripts;
-- computational experiments;
-- attempted proof routes;
-- counterexamples to proposed intermediate claims;
-- method barriers and abandoned approaches;
-- corrections or demotions of earlier claims;
-- handover documents describing the resulting research state and suggested next questions.
-
-Later sessions build on earlier results, but the repository deliberately preserves historical work so that the development of the argument can be audited.
-
-## Research conventions
-
-The project distinguishes carefully between different kinds of results, including:
-
-- **proved analytic mathematics**;
-- **exact finite / machine-verifiable certificates**;
-- **externally inherited computational results**;
-- **computational evidence**;
-- **conjectures and proposed lemmas**;
-- **method barriers or dead routes**;
-- **claims that have subsequently been corrected, weakened, or withdrawn**.
-
-A statement appearing somewhere in the repository should therefore not automatically be interpreted as an established theorem. Its status should be read from the surrounding session documentation and proof-state records.
-
-## Repository structure
-
-The repository contains numbered research-session material together with handovers, verification code, supporting data, and archived intermediate work.
-
-Recent handover bundles are designed to contain enough information for a new research session to continue without having to reconstruct the entire history from scratch.
-
-Where supplied, checksum files and verification scripts are used to confirm that frozen research bundles and finite certificates have not changed.
-
-## Mathematical setting
-
-The standard shortened Collatz map used throughout much of the project is
-
+For the shortened map T(n)=n/2 for even n, T(n)=(3n+1)/2 for odd n, define
 \[
-T(n)=
-\begin{cases}
-n/2, & n\text{ even},\\
-(3n+1)/2, & n\text{ odd}.
-\end{cases}
+E=\{n\ge2:\ T^k(n)\ge n\text{ for all }k\ge1\}.
 \]
+**Known externally:** E has natural density zero (Terras 1976, Everett 1977). **Unknown:** E is empty.
 
-Different parts of the repository study the problem using parity words, inverse trees, modular arithmetic, Diophantine approximation, cycle extrema, product identities, finite-state constructions, and related arithmetic structures.
+## Start working here
 
-Notation and specialised terminology are defined within the relevant session documents.
+1. [Exact target and definitions](research/THEOREM_TARGET.md).
+2. [Active proof/evidence ledger](research/PROOF_LEDGER.md).
+3. [Open logical gaps](research/OPEN_GAPS.md).
+4. [DG001 — baseline mathematical results](research/sessions/DG001.md).
+5. [Next research session: DG002](research/NEXT_SESSION_DG002.md).
 
-## Important note
+The [research plan](research/RESEARCH_PLAN.md), [sources](research/SOURCES.md), and [lightweight protocol](research/SESSION_PROTOCOL.md) explain scope and verification. A named session prompt is an instruction to run that session, not merely to prepare it.
 
-This repository should be read as a **research record**, not as a claim that the Collatz conjecture has been proved.
+## What was retained from the prior programme?
 
-The purpose is to develop, test, verify, reject, and combine possible mathematical routes while retaining a traceable record of what has and has not been established.
+The repository previously pursued hundreds of sessions on excluding non-trivial Collatz **cycles**. There are significant analytic reductions, computational verifiers, explicit countermodels, correction records, and extensive proof ledgers, but they do **not** prove universal descent.
+
+For source-quality material see [legacy result index](research/LEGACY_RESULT_INDEX.md) and curated, unchanged historical evidence in [legacy/](legacy/):
+- [independent progress review, claim inventory and source copies](legacy/PROGRESS_REVIEW/README.md);
+- [RL342–RL349 authoritative-at-the-time proof ledgers](legacy/authoritative/START_HERE.md);
+- [old FINAL_CHANCE verdict and its mathematical countermodels](legacy/FINAL_CHANCE/VERDICT.md).
+
+**The full, unmodified old repository** (including ~13,800 session-directory entries, transport bundles and indexing data) is safe on the snapshot branch [archive/pre-descent-gap-relaunch-2026-10-15](https://github.com/jfairfaxball-348/Collatz-Descent-Gap/tree/archive/pre-descent-gap-relaunch-2026-10-15). No historical original was rewritten to fit the new objective.
+
+The old RL conveyor, cycle-specific R1–R7 stages, compulsory process audits and six-session stop rule are **retired as active instructions**. Past proof/correction ledgers are evidence, not authority for the new target. The new programme has one compact live ledger, direct mathematical sessions, and truthful proof status.
+
+## Verification and limits
+
+[Finite-horizon reference verifier](research/verification/finite_survival.py) checks parity/residue and affine criteria in bounded cases; it is not a certificate for infinite descent or a Lean proof. No universal Collatz proof or new major mathematical breakthrough is claimed. Mathematical claims are tagged by proof status in the ledger, with Git history recording corrections.
 
 ## Research provenance
 
-This project uses AI-assisted mathematical exploration, drafting, code generation, verification, and research-state management. Mathematical claims are classified according to their proof or verification status rather than being treated as established because they were generated or reviewed by an AI system.
-
-## Licensing and citation
-
-Unless otherwise noted, source code and verification scripts are licensed under the MIT License, while mathematical research notes, documentation, reports, diagrams, and other non-code written material are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See [`LICENSE.md`](LICENSE.md) for the licensing overview.
-
-Citation metadata is provided in [`CITATION.cff`](CITATION.cff). Contributions and corrections are described in [`CONTRIBUTING.md`](CONTRIBUTING.md).
+This is AI-assisted mathematical exploration with independently checkable artefacts where supplied. Retain the distinction between paper derivation, exact finite checks, historical repository claims, externally published mathematics, and verified formalisation. Code and document licensing remain as in [LICENSE.md](LICENSE.md).

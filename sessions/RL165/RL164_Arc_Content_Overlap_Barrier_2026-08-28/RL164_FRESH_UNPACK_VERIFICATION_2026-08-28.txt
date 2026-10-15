@@ -1,3 +1,0 @@
-RL164 fresh-unpack verification record
-
-The outer sidecar is checked before unpacking. A clean directory must pass the internal manifest and `python3 verify_rl164_report.py .`. This record avoids an outer ZIP self-reference.

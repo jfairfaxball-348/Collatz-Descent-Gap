@@ -1,8 +1,0 @@
-RL42 rho=48 elimination verifier: PASS
-e<=3 words checked through p<=48 = 309781 with zero crossings
-e=4 words checked through p<=44 = 2243398
-e=4 crossing types = 40 all gap 1 -> -4
-rho=48 rigidity: P=P+=44,E=4,G=4
-safe boundary-DP states/endpoints = 7791 130
-near-resonant endpoints = 0
-certified consequence: rho != 48; together with rho>=48, rho >= 49

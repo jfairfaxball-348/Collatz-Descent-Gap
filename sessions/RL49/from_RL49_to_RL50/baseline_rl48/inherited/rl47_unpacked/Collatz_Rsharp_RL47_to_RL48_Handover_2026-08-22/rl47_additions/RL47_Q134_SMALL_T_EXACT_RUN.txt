@@ -1,7 +1,0 @@
-t 2 total 190 peak 1 macro_starts 94 macro_steps 8960 hull_prune 8942 res_prune 1 hit 0 minH -1 secs 0.0021206
-t 4 total 25543 peak 184 macro_starts 8449 macro_steps 655164 hull_prune 650926 res_prune 11493 hit 0 minH -1 secs 0.0727688
-t 6 total 72453 peak 516 macro_starts 19238 macro_steps 1328496 hull_prune 734738 res_prune 19611 hit 0 minH -1 secs 0.22797
-t 8 total 96899 peak 656 macro_starts 23913 macro_steps 1775181 hull_prune 543133 res_prune 29250 hit 0 minH -1 secs 0.334338
-t 10 total 231383 peak 1530 macro_starts 56676 macro_steps 4113924 hull_prune 2726378 res_prune 69544 hit 0 minH -1 secs 0.663973
-t 12 total 471627 peak 2939 macro_starts 108311 macro_steps 7940883 hull_prune 4394061 res_prune 136974 hit 0 minH -1 secs 1.46678
-t 14 total 1305040 peak 8495 macro_starts 334453 macro_steps 23973623 hull_prune 16489610 res_prune 393983 hit 0 minH -1 secs 5.18342

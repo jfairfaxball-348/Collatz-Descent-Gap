@@ -1,9 +1,0 @@
-PASS: RL237 deep exact chronological recurrence scans
-H20_323334 T=216803362095665397 H=20 core=[62456644959,96166487667]
-scan=35..209 atoms=1014 nonempty_separations=85 survivors=0 spacing_ge=210 cap=654895453
-H20_3136 T=150094635296999121 H=20 core=[0,18406412838]
-scan=37..5596 atoms=278049 nonempty_separations=1486 survivors=0 spacing_ge=5597 cap=24571742
-H21_3435 T=550346996088996777 H=21 core=[109195551555,122224615441]
-scan=36..3031 atoms=41039 nonempty_separations=569 survivors=0 spacing_ge=3032 cap=45358853
-generation=exact carry-completed universal return transport
-scope=invariant-specific chronological self-return only

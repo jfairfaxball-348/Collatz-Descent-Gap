@@ -1,6 +1,0 @@
-RL293 checkpoint-2 to checkpoint-8 domination regression: PASS
-tower_departures_checked=d2..d8
-same_state_mergers=d3_cost1,d4_cost4,d5_cost9
-d6_first_return_equality=source2_cost29_to_odd_J17
-J17_boundary_exits=2,8,14,26_all_source8_cost<=6
-classification_candidate=CHECKPOINT2_TO_CHECKPOINT8_STRICT_MINPLUS_DOMINATION_THROUGH_COST29

@@ -1,5 +1,0 @@
-r=0 all-00 continuation length = v2(Q-2): PASS
-wording repair: this is the longest all-00 continuation, not the length of every actual run
-r=1 complete-return entry valuation n=v2(3Q-7): PASS
-r=1 complete-return DeltaPsi=(7/6)M: PASS
-terminal v3(2^K+1)=1+v3(K) for odd K (finite regression): PASS

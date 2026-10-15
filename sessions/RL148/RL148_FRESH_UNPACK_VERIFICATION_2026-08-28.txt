@@ -1,7 +1,0 @@
-RL148 fresh-unpack verification
-
-BASE_HEAD: 30224f20297e2d0183b4b3d571084fed9433e80c
-Incoming RL147 sidecar / manifest / fresh-unpack suite: PASS.
-Candidate ZIP SHA-256: 8bb803d99cb7f2ccf5bf972888fa42811485b4a6926308caacef1d7d8e8cd6a9
-Transport reconstruction, fresh manifest, and RL148 fast verifier: PASS.
-Scope: exact-depth fibre sharpening only; no global exclusion.

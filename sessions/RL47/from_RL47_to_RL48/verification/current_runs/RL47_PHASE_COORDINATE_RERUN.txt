@@ -1,5 +1,0 @@
-RL47 phase-coordinate verifier: PASS
-start Phi = -8
-terminal state = (1, 31, 22, 38, 60, 104)
-terminal Phi = 9*zeta*(1+2^-(t+3)) exactly
-every 11 edge has Delta Phi = 0 on the certified (65,41) witness

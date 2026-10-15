@@ -1,6 +1,0 @@
-RL225 e4 transfer verifier: PASS
-raw candidates 3863379575
-terminal Hensel deletions 1842
-height deletions through transition 41 1988460
-combined survivors 3861389273
-RL225 proof-state verifier: PASS

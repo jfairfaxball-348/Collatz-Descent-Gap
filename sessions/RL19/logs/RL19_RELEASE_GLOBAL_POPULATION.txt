@@ -1,5 +1,0 @@
-RL19 global weighted-population verifier: PASS
-exact positive-lift word checks: 1623
-weighted arbitrary-radius rotation checks: 13126
-odd/even weighted-population checks: 1623
-suffix-domination point checks: 14749

@@ -1,9 +1,0 @@
-(46, 29, 17) states 61347 secs 0.14505934715270996 legal_pump_states 25 rejected_pump_states 29
-hits 0
-[]
-(65, 41, 24) states 3454259 secs 7.455430269241333 legal_pump_states 98 rejected_pump_states 53
-hits 1
-[(22, 2, 16, 38, 39, 0, 0, False, 60, 31)]
-target present True min_e 125
-RL46 fast minimum-excess verifier: PASS
-RL46 STRUCTURAL VERIFIERS PASSED

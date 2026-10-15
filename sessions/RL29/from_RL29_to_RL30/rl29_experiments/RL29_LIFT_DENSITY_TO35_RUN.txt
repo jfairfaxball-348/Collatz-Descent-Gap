@@ -1,4 +1,0 @@
-depth 20 survivors 109 min_unsync 13 max_v2 2 max_sync_run_levels 3
-depth 25 survivors 794 min_unsync 14 max_v2 2 max_sync_run_levels 3
-depth 30 survivors 6458 min_unsync 18 max_v2 3 max_sync_run_levels 3
-depth 35 survivors 43996 min_unsync 20 max_v2 5 max_sync_run_levels 4

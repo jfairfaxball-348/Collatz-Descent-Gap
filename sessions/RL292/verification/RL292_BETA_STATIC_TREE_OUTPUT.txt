@@ -1,8 +1,0 @@
-RL292 static Beta preimage-tree regression: PASS
-direct_vs_static_checks= 1050
-hazard_roots=alpha1:-1,alpha0:-2/3
-explicit_allzero_pullback_L=4
-R_range=5..24
-wall_four_form_valuations= (1, 2, 0, 0)
-truncated_Beta_on_family=R
-classification_candidate=STATIC_BOUNDARY_HAZARD_PREIMAGE_TREE_AND_FINITE_TEMPLATE_BARRIER_PROVED

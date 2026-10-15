@@ -1,7 +1,0 @@
-RL284 portable structural regression: PASS
-forward_labelled_reconstruction_cases=3996
-converse_admissible_pairs=396
-predecessor_ray_cases=396
-mod3_orientation_witnesses=4
-cycle_valuation_words=PASS
-prime_branch_indifference=ANALYTIC_FROM_ADMISSIBILITY_CRITERION

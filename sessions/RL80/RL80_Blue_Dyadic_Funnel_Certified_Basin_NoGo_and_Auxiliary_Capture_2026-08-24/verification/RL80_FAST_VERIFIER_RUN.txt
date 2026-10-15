@@ -1,8 +1,0 @@
-RL79_Post_Tournament_Common_Barrier_Synthesis_and_Unit_Increment_Reset_2026-08-24.zip: OK
-RL80 blue-basin verifier: PASS
-odd-core saturation checks = 131072
-LTE blue-comb checks = 227
-RL50 auxiliary-blue checks = 226
-primitive-root spot checks = 8
-multiplicative-density checks = 99752
-ordinary s=1 / generalized s=5 negative control = PASS

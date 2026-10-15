@@ -1,8 +1,0 @@
-RL42 crossing-excess transport floor verifier: PASS
-e<=3 words checked through p<=47 = 286607
-counts by excess = {0: 47, 1: 1128, 2: 19505, 3: 265927}
-physical sign-changing excursions among them = 0
-therefore any mandatory crossing under rho<=47 has excess >=4
-transport efficiency then gives M_eff <= rho/2 - 1
-exact numerator bridge gives M_eff > 45/2
-certified consequence: rho > 47, hence rho >= 48

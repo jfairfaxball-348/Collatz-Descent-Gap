@@ -1,3 +1,0 @@
-RL113 tournament structural and finite red-team verifier: PASS
-RL20 radius / ownership mismatch = 4 / nonzero
-primitive necklaces / closest pairs / D-divisible pairs = 1580 27866 0

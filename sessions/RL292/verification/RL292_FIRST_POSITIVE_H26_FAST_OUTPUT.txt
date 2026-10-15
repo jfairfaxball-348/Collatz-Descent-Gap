@@ -1,3 +1,0 @@
-states=11380217 processed=11380217 seeds=6224 overflow=0 maxJ=4774383955674006
-k1:H2 k3:H2 k5:H8 k7:H14 k9:H14 k11:H17 k13:H17 k15:H21 k17:H24 k19:H25 k21:H23 
-target=ABSENT

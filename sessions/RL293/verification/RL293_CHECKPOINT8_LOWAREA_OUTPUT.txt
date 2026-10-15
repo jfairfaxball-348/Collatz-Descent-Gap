@@ -1,8 +1,0 @@
-RL293 checkpoint-8 complete low-area A<=7 closure: PASS
-first_returns_below_8= [(5, 2, '001'), (12, 2, '011')]
-checkpoint_frontier_A2=2,12
-checkpoint_frontier_A6=6,14,18,20,26,30,32,62,68,80,134
-checkpoint_frontier_A7=24,48,102
-nonempty_return_8_cost=2_sharp_v2=3
-all_nonempty_balanced_checkpoint_futures_A<=7_satisfy_v2(J)<=A+1
-classification_candidates=CHECKPOINT8_AREA_TWO_RENEWAL_EQUALITY_RIGIDITY;CHECKPOINT8_FULL_LOWAREA_A_LE_7_EXCESS_ONE_CLOSURE

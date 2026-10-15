@@ -1,4 +1,0 @@
-J=3<->5 m-pump formula: PASS
-g_out = g_in*(4/3)^m
-aligned mass = 2*g_in*((4/3)^m-1)
-event increments per pump: Delta i=2, Delta p=1, Delta x-zero count=1
