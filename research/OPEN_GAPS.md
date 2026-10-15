@@ -88,3 +88,14 @@ Advance only when an explicit mathematically verified statement genuinely narrow
 - **Immediate priority DG009:** Either prove a genuinely **global positive-integer** recurrence law forcing inverse-generating categories on an actual unbounded exceptional tail and then a frequency bound incompatible with E=o(X), or prove a first-transition contradiction for min E divisible by3 (including bounded-case coverage), or obtain a rigorous negative obstruction invalidating one of those proposed bridges. Do not count roots without exact first-spine collision analysis. A longer fixed-word sieve alone is insufficient.
 
 **DG-GAP-01 still OPEN.** No positive exceptional integer has been exhibited, no universal descent proof is available, and no Lean/Palomar or originality certificate has been obtained. Detailed results: [DG008](sessions/DG008.md), [exact checker](verification/verify_DG008.py); [next DG009](NEXT_SESSION_DG009.md) is prepared but unexecuted.
+
+
+## DG009 — exact remaining global obligations (2026-10-15)
+
+- **Six proven but conditional first-record exclusions:** For a least exceptional m on an unbounded orbit, a first nine-step suffix-record bridge u=111011010 or v=111101010 cannot use h in u: 1(mod3),5(mod9),9(mod81) or v: 2(mod3),0(mod9),40(mod81), respectively. The last subprogression for each bridge starts m=0(mod3), so this improves an otherwise unsieved region, but only under this specific *first-record* hypothesis; no all-E progression is excluded.
+- **Shallow branch ceiling:** Every strictly-prefix-safe inverse word with <=6 odd bits and integral endpoint along the whole u/v bridge progressions is just the actual bridge word itself. Exact bound d<=9 and 55-candidate exhaustive check. Deep branches depend on higher 3-adic digits; claiming a universal extra-root for all endpoints 28/37(mod81) is false at shallow depth.
+- **No global distinctness:** DG009's alternative safe roots have word lengths 10,12,15, longer than gap 9. They can in principle first meet the original orbit before the associated gap; no collision-free assignment of roots to record intervals has been established, and there is no count incompatible with o(X).
+- **Positive-integer realisation barrier:** The explicit genuinely varying 2-adic u/v word with runs u^(J+1) at unbounded block positions J admits every finite positive bridge prefix (even 3-divisible sources) but no fixed positive integer. Divisibility 512^t | (217x+881) and x<= (3/2)^(9J)(n+1)-1 prove it. This does NOT eliminate other nonperiodic infinite words.
+- **Next priority:** exclude min E=0(mod3) globally including the bounded-cycle case, or derive an actual orbit-wide recurrence/quantitative contradiction, without assuming all record gaps are among the classified <=18 cases. See sessions/DG009.md and NEXT_SESSION_DG010.md.
+
+**DG-GAP-01 stays OPEN:** no claimed recurrence, density contradiction, cycle elimination or E=empty proof.
