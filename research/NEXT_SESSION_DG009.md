@@ -1,6 +1,6 @@
-# DG009 — force recurrence of inverse-generating exceptional records, or kill its proposed mechanism (READY; NOT EXECUTED)
+# DG009 — force recurrence of inverse-generating exceptional records, or kill its proposed mechanism (EXECUTED; historical prompt)
 
-**Authority:** The next explicit owner instruction to “run next session” authorises **DG009 only**, not DG010. No confirmation gate. DG008 has been executed. Do not turn this prompt into a status-only response; do real mathematical work, commit the exact results, then prepare but do not run DG010.
+**Execution status:** DG009 was authorised and executed on 2026-10-15. This is the preserved historical execution prompt, not the active handoff. Results: [sessions/DG009.md](sessions/DG009.md). Active next prompt: [NEXT_SESSION_DG010.md](NEXT_SESSION_DG010.md), READY but NOT EXECUTED. DG008 was executed previously.
 
 **Read first:** research/THEOREM_TARGET.md; research/sessions/DG008.md; research/sessions/DG007.md; research/PROOF_LEDGER.md; research/OPEN_GAPS.md; research/verification/verify_DG008.py. Target remains **E=empty** for the positive shortened Collatz map, not a cycle-only theorem, finite parity-cylinder classification, or 2-adic non-realisation alone. Distinguish actual E-orbit tail minima, finite local bridges, candidate least-E residue locations, and external natural-density-zero theorems.
 
