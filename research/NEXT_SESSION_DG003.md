@@ -1,4 +1,6 @@
-# DG003 — cross-depth restrictions for genuinely integer-realised nonperiodic survival (READY; NOT EXECUTED)
+# DG003 — cross-depth restrictions for genuinely integer-realised nonperiodic survival (EXECUTED 2026-10-15; historical invocation prompt)
+
+**Execution record:** [DG003 result and proof](sessions/DG003.md); [DG004 is the next unexecuted prompt](NEXT_SESSION_DG004.md). Instructions below are retained as the historical DG003 invocation text. They do not authorise DG004.
 
 **Owner instruction to run this named session suffices; do not request confirmation.** Execute DG003 only. No automatic DG004.
 

@@ -17,7 +17,8 @@ E=\{n\ge2:\ T^k(n)\ge n\text{ for all }k\ge1\}.
 3. [Open logical gaps](research/OPEN_GAPS.md).
 4. [DG001 — baseline mathematical results](research/sessions/DG001.md).
 5. [DG002 — integer-realisation obstruction, sharp mixed-prefix counterexamples and exact verifier](research/sessions/DG002.md).
-6. [Next research session: DG003](research/NEXT_SESSION_DG003.md).
+6. [DG003 — exact cross-depth collapse, least-exception inverse sieve and tail minima](research/sessions/DG003.md).
+7. [Next research session: DG004](research/NEXT_SESSION_DG004.md).
 
 The [research plan](research/RESEARCH_PLAN.md), [sources](research/SOURCES.md), and [lightweight protocol](research/SESSION_PROTOCOL.md) explain scope and verification. A named session prompt is an instruction to run that session, not merely to prepare it.
 
@@ -36,7 +37,7 @@ The old RL conveyor, cycle-specific R1–R7 stages, compulsory process audits an
 
 ## Verification and limits
 
-[Finite-horizon reference verifier](research/verification/finite_survival.py) and [DG002 exact block checker](research/verification/verify_DG002.py) check only their stated bounded cases. DG002's infinite-horizon lemmas have elementary paper proofs, not a Lean or Palomar certificate. No universal Collatz proof or new major mathematical breakthrough is claimed. Mathematical claims are tagged by proof status in the ledger, with Git history recording corrections.
+[Finite-horizon reference verifier](research/verification/finite_survival.py) [DG002 exact block checker](research/verification/verify_DG002.py), and [DG003 inverse/cylinder checker](research/verification/verify_DG003.py) check only their stated bounded cases. DG002 and DG003's infinite-horizon lemmas have elementary paper proofs, not Lean or Palomar certificates. No universal Collatz proof or new major mathematical breakthrough is claimed. Mathematical claims are tagged by proof status in the ledger, with Git history recording corrections.
 
 ## Research provenance
 
