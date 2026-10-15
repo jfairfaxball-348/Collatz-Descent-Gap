@@ -1,6 +1,8 @@
-# DG008 — pressure-test 11-step inverse sieve and positive-orbit record recurrence (READY; NOT EXECUTED)
+# DG008 — pressure-test 11-step inverse sieve and positive-orbit record recurrence (EXECUTED 2026-10-15; historical prompt)
 
-**Authority:** A new user instruction to "run next session" executes **DG008 immediately**, not DG009. No extra confirmation. Work strictly on \(E=\varnothing\), the Terras–Everett descent gap for the standard shortened positive Collatz map. No cycle-only diversion, arbitrary parity-profile games substituted for positive integers, forced audits, or huge uninformative brute force.
+**Execution record:** [DG008 results](sessions/DG008.md); [DG008 exact checker](verification/verify_DG008.py). [Next unexecuted DG009 prompt](NEXT_SESSION_DG009.md). Below is the historical invocation text, not a mandate to run DG008 again.
+
+**Authority (historical):** A new user instruction to "run next session" executes **DG008 immediately**, not DG009. No extra confirmation. Work strictly on \(E=\varnothing\), the Terras–Everett descent gap for the standard shortened positive Collatz map. No cycle-only diversion, arbitrary parity-profile games substituted for positive integers, forced audits, or huge uninformative brute force.
 
 **Read first:** research/THEOREM_TARGET.md; research/sessions/DG007.md; research/PROOF_LEDGER.md; research/OPEN_GAPS.md; research/verification/verify_DG007.py. Respect the distinction between all-E inverse lemmas, restrictions on \(\min E\), *conditional unbounded* E-record lemmas, and finite local bridge counterexamples.
 
