@@ -4,7 +4,7 @@
 
 ## Reading and fixed scope
 
-Read \`research/THEOREM_TARGET.md\`, \`research/sessions/DG012.md\`, \`research/sessions/DG013.md\`, \`research/PROOF_LEDGER.md\`, \`research/OPEN_GAPS.md\`, \`research/verification/verify_DG013.py\`, and DG010 §4. Treat DG013's paired-block theorem as a proved conditional theorem with a paper proof and only finite exact regression; no Lean/Palomar certificate and no independent originality verdict. Every finite mountain schedule is still realizable by ordinary positive initial values, though not necessarily by any one initial value for the whole infinite schedule.
+Read `research/THEOREM_TARGET.md`, `research/sessions/DG012.md`, `research/sessions/DG013.md`, `research/PROOF_LEDGER.md`, `research/OPEN_GAPS.md`, `research/verification/verify_DG013.py`, and DG010 §4. Treat DG013's paired-block theorem as a proved conditional theorem with a paper proof and only finite exact regression; no Lean/Palomar certificate and no independent originality verdict. Every finite mountain schedule is still realizable by ordinary positive initial values, though not necessarily by any one initial value for the whole infinite schedule.
 
 ## Primary aggressive attacks — make a real attempt on E
 
@@ -24,4 +24,4 @@ Read \`research/THEOREM_TARGET.md\`, \`research/sessions/DG012.md\`, \`research/
 
 ## Deliverables
 
-Write \`research/sessions/DG014.md\` with complete theorem proofs or explicit failed mechanism(s), quantifiers, and reproducible exact checks. Update active ledger/gaps/README only with true changes. Prepare \`research/NEXT_SESSION_DG015.md\` READY but DO NOT execute. End with (a) proved, (b) killed, (c) precise new claim's impact on E, (d) bounded and unbounded gap status, (e) exact commit/paths, and (f) full next-session prompt. No faux formalisation, no publication-ready claim without novelty/independent checks, and no phase counters or percentages.
+Write `research/sessions/DG014.md` with complete theorem proofs or explicit failed mechanism(s), quantifiers, and reproducible exact checks. Update active ledger/gaps/README only with true changes. Prepare `research/NEXT_SESSION_DG015.md` READY but DO NOT execute. End with (a) proved, (b) killed, (c) precise new claim's impact on E, (d) bounded and unbounded gap status, (e) exact commit/paths, and (f) full next-session prompt. No faux formalisation, no publication-ready claim without novelty/independent checks, and no phase counters or percentages.
