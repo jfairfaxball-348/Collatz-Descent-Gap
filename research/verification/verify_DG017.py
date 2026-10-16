@@ -107,12 +107,14 @@ def main():
         a=n
         for block in blocks:
             x=a
+            interior=[]
             for j,digit in enumerate(block):
                 assert x%2==int(digit)
                 x=T(x)
                 if j<len(block)-1:
-                    assert x>a
+                    interior.append(x)
             assert x>a and x%9==7
+            assert all(z>x for z in interior)
             a=x
         print('PASS Champernowne finite strict mountains:',count,
               'blocks; initial seed bits',n.bit_length())
