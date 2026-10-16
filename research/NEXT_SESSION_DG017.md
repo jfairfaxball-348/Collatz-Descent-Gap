@@ -1,6 +1,6 @@
-# DG017 — Turn unrestricted E parity complexity into a descent-forcing invariant (READY; NOT EXECUTED)
+# DG017 — Turn unrestricted E parity complexity into a descent-forcing invariant (EXECUTED 2026-10-16; historical prompt)
 
-**Authority:** Execute DG017 only upon a subsequent explicit owner instruction "run next session". DG016 is complete. The target remains E=empty for the ordinary shortened map, not symbolic mountain nonrealisation or cycle-only statements.
+**Execution record:** DG017 was executed on explicit owner instruction 2026-10-16; see [full mathematical report](sessions/DG017.md), [exact verifier](verification/verify_DG017.py), and [DG018 prepared successor](NEXT_SESSION_DG018.md). The instructions below are preserved as the historical invocation record and do not authorise starting DG018. DG016 is complete. The target remains E=empty for the ordinary shortened map, not symbolic mountain nonrealisation or cycle-only statements.
 
 ## Required reading
 
