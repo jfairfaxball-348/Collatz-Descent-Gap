@@ -132,3 +132,17 @@ Advance only when an explicit mathematically verified statement genuinely narrow
 - **Still OPEN:** arbitrary oscillating/non-mountain record itineraries, a proof that an actual E tail obeys the monotone-mountain hypothesis, a recurrence of collision-free divergent roots strong enough to violate natural-density zero, and the bounded/preperiodic least E divisible3 below a hypothetical nontrivial cycle. No new cycle exclusion or E=empty proof was obtained. Details [DG012](sessions/DG012.md), [verifier](verification/verify_DG012.py), [DG013 task](NEXT_SESSION_DG013.md) READY and NOT EXECUTED.
 
 **DG-GAP-01 remains OPEN.** The proved monotone-mountain obstruction is a conditional structural advance, not universal Collatz descent.
+
+
+## DG013 — remaining gaps after paired-superword nonrealisation (2026-10-16)
+
+**New theorem and effect:** [DG013](sessions/DG013.md) proves that no fixed positive integer can follow alternating strict mountains \(r_{2j}=r_*,r_{2j+1}=R_j\) for eventual nondecreasing \(R_j\) (even when the full parameters oscillate). It also supplies a quantitative denominator/growth inequality for repetitions of arbitrary mountain superwords. This kills the exact suggested \(5,(5+6\lfloor\log_2(j+2)\rfloor)\) alternating stress-test as a *single infinite positive orbit*, although every finite prefix has infinitely many positive starts.
+
+**Still missing (do not silently strengthen):**
+
+1. **All oscillatory mountain tails:** Without monotone high subsequence, long constant paired plateaus or sufficiently strong general periodic islands are not guaranteed. Need a different invariant or an exact high-complexity repetition theorem sufficient for *every* allowed infinite mountain parameter list. A finite-alphabet or rapidly alternating 2-adic word is not a fixed-positive realisation; absence of our contradiction is not evidence of an exceptional orbit.
+2. **Actual E record bridges:** No proof that a genuine unbounded E orbit admits *any* eventually mountain tail. Record gaps/words can be unrestricted. The global strict record inequality \(a_{j+1}+1<2(a_j+1)\) supplies only exponential-in-record-index size control, not universal descent. To contradict Terras–Everett requires a genuine off-spine inverse-root frequency and disjointness lower bound incompatible with \(E=o(X)\), or another absolute exclusion of E.
+3. **Bounded/preperiodic least E:** The no-3-divisible-*cycle-member* result does not exclude a 3-divisible **least exceptional preperiodic** seed below an unknown nontrivial cycle. DG013 requires an unbounded strict record chain and says nothing about that case.
+4. **Formalisation/publication:** Paper-level elementary conditional proofs and finite exact checks exist; there is no Lean or Palomar verification, exhaustive prior-art/novelty review, arXiv submission, or reason to claim a universal Collatz breakthrough.
+
+**DG-GAP-01 remains OPEN.** Next research: [DG014](NEXT_SESSION_DG014.md) READY, NOT EXECUTED.
