@@ -92,3 +92,17 @@ Authoritative for **new DG programme only**, beginning 2026-10-15. Prior RL and 
 - **Evidence:** [DG014 paper proof](sessions/DG014.md), [finite exact verifier](verification/verify_DG014.py), [DG015 READY](NEXT_SESSION_DG015.md).
 
 **DG-GAP-01 remains OPEN.**
+
+
+## DG015 — separated repeated factors defeat both DG014 infinite schedules (2026-10-16)
+
+| ID | Claim | Status | Evidence / exact scope | Impact on E |
+| --- | --- | --- | --- | --- |
+| DG-015-A | For a fixed positive orbit following mountain words, two identical length-h mountain factors at bridge starts p<q, of parity-bit length L, force 2^L to divide a_q-a_p>0, and 2^(L-q)<n+1. Infinite factors with L-q unbounded rule out that fixed positive seed. | ELEMENTARY PROOF RECORDED; FINITELY CHECKED, NOT FORMALISED | sessions/DG015.md §1; verify_DG015.py | New nonadjacent repeat nonrealisation gate; **mountain-only**, not general E |
+| DG-015-B | No ordinary positive integer follows the infinite Thue-parameter mountain schedule {5,11,17}, since repeated phi^k(0) factors have h=3*2^(k-1), later start q=2h, and L>=14h. | ELEMENTARY INFINITE PROOF RECORDED; FINITE REGRESSION PASS | sessions/DG015.md §2; verify_DG015.py | Eliminates DG014's bounded *specific symbolic schedule* as positive-integer realisation |
+| DG-015-C | No ordinary positive integer follows DG014's sparse-spike Thue schedule: two spike-free phi^k(0) copies have p=20*2^(k-1), q=24*2^(k-1)=8h, L>=14h for every k>=5. | ELEMENTARY INFINITE PROOF RECORDED; FINITE REGRESSION PASS | sessions/DG015.md §3; verify_DG015.py | Eliminates the *specific spiked symbolic schedule*, not arbitrary oscillating mountain tails |
+| DG-015-D | Conditional on E nonempty and m=min E, each y=T^t(m), t>=1, with y=2(mod3) obeys y>=T(m)=(3m+1)/2; in particular a first external cycle entry obeys it. | ELEMENTARY CONDITIONAL PROOF, NOT FORMALISED | sessions/DG015.md §4 | Genuine actual-least-E visit restriction; does not exclude bounded or unbounded E |
+
+**Correction/clarification to DG014 interpretation:** DG014 correctly proves absence of **adjacent** repeated parameter superwords in both symbolic schedules; DG015 finds **separated** long equal factors and uses the fixed-seed archimedean bound to prove neither is infinitely positive-integer-realised. DG014's finite positive shadow calculations and classical square-free result are retained unchanged, not retracted. No inference for arbitrary actual E record itineraries is justified.
+
+**Still OPEN:** E=empty; all nonmountain actual E bridges; general chaotic mountain schedules not meeting the separated-repeat criterion; preperiodic 3-divisible least E below a hypothetical nontrivial cycle; a recurrent, disjoint, density-incompatible off-spine inverse-root theorem. No Lean, Palomar, independent originality verification or universal Collatz theorem. See [DG015 proof](sessions/DG015.md), [exact local checker](verification/verify_DG015.py), and [DG016 READY](NEXT_SESSION_DG016.md).
