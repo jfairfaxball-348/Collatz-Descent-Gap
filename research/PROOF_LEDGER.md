@@ -70,3 +70,13 @@ Authoritative for **new DG programme only**, beginning 2026-10-15. Prior RL and 
 | DG-GAP-01 | Derive E empty from exceptional-set arithmetic | OPEN; MAIN PROBLEM | OPEN_GAPS.md | Entire target |
 
 **No original breakthrough, Lean-certified statement, or universal Collatz proof is claimed.** A verifier confirms only its encoded finite proposition. New corrections must explicitly name the ledger entry demoted or amended and preserve the former text via Git history.
+
+
+## DG013 — oscillating paired mountains and periodic-island arithmetic (2026-10-16)
+
+- **DG-013-A (PROVED, conditional structural theorem):** No ordinary positive integer has an infinite tail of consecutive *strict* mountain record bridges with \(r_{2j}=r_*\) fixed in \(5\bmod6,\ r_*\ge5\) and \(r_{2j+1}=R_j\) eventually nondecreasing in \(5\bmod6,\ R_j\ge5\). This covers genuinely oscillating full sequences and includes \(r_{2j}=5,\ r_{2j+1}=5+6\lfloor\log_2(j+2)\rfloor\). It does **not** cover arbitrary oscillations or force such a structure on actual E.
+- **DG-013-B (PROVED, arbitrary finite superword):** If a single positive orbit follows strict mountain bridges, and at bridge index \(j\) repeats a length-\(m\) mountain superword \(V\) of total parity-bit length \(d\) exactly \(K\) times, then \(2^{(K-1)d}<4((3/2)^m-1)2^j(n+1)\), for original positive source \(n\). It follows from \(\gcd(3^S,2^d)=1\), exact \(2^{Kd}\mid(3^S-2^d)a_j+q\), an intercept bound, and the universal strict bridge growth budget. This is **fixed-size arithmetic**, not an independent parity congruence.
+- **DG-013-C (EXACT FINITE REGRESSION PASS):** \`research/verification/verify_DG013.py\` tests paired \(5,R\) affines for \(R=5,11,17,23,29,35,41\); finite strict 3-divisible positive seeds for mixed/pair repetitions; exact modulus \(D^K\) divisibility; and logarithmic staircase plateaus \(J_k=2^k-2\), \(K_k=2^k\). The infinite proof is written in \`sessions/DG013.md\`; no Lean/Palomar/novelty certificate.
+- **Killed / not established:** Full parameter nonmonotonicity alone does not evade arithmetic, but **all** oscillatory mountain itineraries remain unexcluded. All finite prefixes of the forbidden schedules have genuine positive witnesses; 2-adic compatibility is not an infinite positive orbit. There is still **no** forced mountain structure or quantitative collision-free divergent-root recurrence on arbitrary actual E bridges. A hypothetical least 3-divisible E seed preperiodic to a nontrivial positive cycle remains untreated.
+
+**DG-GAP-01 OPEN** (no \(E=\varnothing\), no exceptional positive seed, no density contradiction). See [DG013 proof](sessions/DG013.md), [DG013 verifier](verification/verify_DG013.py), and [DG014 successor](NEXT_SESSION_DG014.md) (READY, NOT EXECUTED).
