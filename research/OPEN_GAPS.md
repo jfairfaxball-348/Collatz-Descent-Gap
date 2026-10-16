@@ -121,3 +121,14 @@ Advance only when an explicit mathematically verified statement genuinely narrow
 - **No A/B/C global success.** Still need (i) a recurrence or collision-free abundance theorem **on one fixed positive exceptional orbit**, not finite shadows; (ii) an exclusion of a bounded preperiodic 3-divisible least-E seed below a hypothetical nontrivial cycle; or (iii) direct universal descent. The known natural-density-zero E bound is not contradicted. Next [DG012](NEXT_SESSION_DG012.md) is prepared, NOT EXECUTED.
 
 **DG-GAP-01 remains OPEN:** nothing here proves that a positive exceptional orbit exists or that E is empty.
+
+
+## DG012: full monotone-mountain nonrealisation on one fixed positive seed (2026-10-16)
+
+- **New strong scoped theorem:** No positive integer has an infinite strict mountain-bridge tail \(w_{r_j}=1^{s(r_j)}0^{r_j}\), \(r_j\ge5,\ r_j=5\bmod6\), if the \(r_j\) are eventually nondecreasing. This includes eventual constants and slow staircases; it DOES NOT show all exceptional orbits have mountain tails.
+- **Global record-count bound:** For a *fixed ordinary seed* following mountain bridges, \(2^{s_j}\le a_j+1\le(3/2)^j(n+1)\), whence \(r_j<\mu^2j+\mu\log_2(n+1)\), \(\mu=\log_2(3/2)\), \(\mu^2\approx0.342181\). This is much stronger than DG011's elapsed-time bound, but still only necessary.
+- **Cross-bridge repeat congruence:** If one word has affine data \((A,q,D)=(3^s,3^s-2^s,2^{s+r})\) and is repeated K times, \(D^K\mid(A-D)x+q\) and \(D^{K-1}<x+1\). Together with plateau-count geometry this proves the monotone theorem. The two-consecutive-word condition \(3^sk\equiv1-2^r\bmod2^{r+s'}\) is *merely* the concatenated parity cylinder, not an independent elimination mechanism.
+- **Explicit stronger test:** \(r_j=5+6\lfloor j/30\rfloor\) passes the asymptotic single-run slope ceiling \(1/5<0.342181\), with arbitrarily long finite positive bridge shadows, but plateau repetition alone kills any one fixed positive infinite realisation.
+- **Still OPEN:** arbitrary oscillating/non-mountain record itineraries, a proof that an actual E tail obeys the monotone-mountain hypothesis, a recurrence of collision-free divergent roots strong enough to violate natural-density zero, and the bounded/preperiodic least E divisible3 below a hypothetical nontrivial cycle. No new cycle exclusion or E=empty proof was obtained. Details [DG012](sessions/DG012.md), [verifier](verification/verify_DG012.py), [DG013 task](NEXT_SESSION_DG013.md) READY and NOT EXECUTED.
+
+**DG-GAP-01 remains OPEN.** The proved monotone-mountain obstruction is a conditional structural advance, not universal Collatz descent.
