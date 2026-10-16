@@ -25,7 +25,8 @@ E=\{n\ge2:\ T^k(n)\ge n\text{ for all }k\ge1\}.
 11. [DG008 — gap lengths 13–18, depth-17 safe inverse classes, 10-mod-81 branch and mixed finite obstruction](research/sessions/DG008.md).
 12. [DG009 — six conditional first-record inverse-root obstructions and an infinite non-integer 2-adic mixed schedule](research/sessions/DG009.md).
 13. [DG010 — all-length finite bridge adversary, divergent 3-adic first-record roots, two-gap collision lemma](research/sessions/DG010.md).
-14. [Next research session: DG011](research/NEXT_SESSION_DG011.md) (READY; NOT EXECUTED).
+14. [DG011 — sharp seven-odd-step mod-9 inverse shield, finite 3-adic mountain interpolation, fixed-orbit odd-run budget](research/sessions/DG011.md).
+15. [Next research session: DG012](research/NEXT_SESSION_DG012.md) (READY; NOT EXECUTED).
 
 The [research plan](research/RESEARCH_PLAN.md), [sources](research/SOURCES.md), and [lightweight protocol](research/SESSION_PROTOCOL.md) explain scope and verification. A named session prompt is an instruction to run that session, not merely to prepare it.
 
@@ -44,7 +45,7 @@ The old RL conveyor, cycle-specific R1–R7 stages, compulsory process audits an
 
 ## Verification and limits
 
-[Finite-horizon reference verifier](research/verification/finite_survival.py), [DG002 exact block checker](research/verification/verify_DG002.py), [DG003 inverse/cylinder checker](research/verification/verify_DG003.py), and [DG004 inverse/record checker](research/verification/verify_DG004.py), [DG005 tail-minimum checker](research/verification/verify_DG005.py), and [DG006 exact bridge/inverse-chain checker](research/verification/verify_DG006.py), [DG007 exact bridge/least-exception sieve checker](research/verification/verify_DG007.py), , [DG008 exact bridge, inverse-residue and mixed-schedule checker](research/verification/verify_DG008.py), and [DG009 first-record and integer-realisation checker](research/verification/verify_DG009.py), and [DG010 true-modulus and unbounded-gap finite checker](research/verification/verify_DG010.py) check only their stated bounded cases. DG002 and DG003's infinite-horizon lemmas have elementary paper proofs, not Lean or Palomar certificates. No universal Collatz proof or new major mathematical breakthrough is claimed. Mathematical claims are tagged by proof status in the ledger, with Git history recording corrections.
+[Finite-horizon reference verifier](research/verification/finite_survival.py), [DG002 exact block checker](research/verification/verify_DG002.py), [DG003 inverse/cylinder checker](research/verification/verify_DG003.py), and [DG004 inverse/record checker](research/verification/verify_DG004.py), [DG005 tail-minimum checker](research/verification/verify_DG005.py), and [DG006 exact bridge/inverse-chain checker](research/verification/verify_DG006.py), [DG007 exact bridge/least-exception sieve checker](research/verification/verify_DG007.py), , [DG008 exact bridge, inverse-residue and mixed-schedule checker](research/verification/verify_DG008.py), [DG009 first-record and integer-realisation checker](research/verification/verify_DG009.py), [DG010 true-modulus and unbounded-gap finite checker](research/verification/verify_DG010.py), and [DG011 sharp mod-9 and mountain interpolation checker](research/verification/verify_DG011.py) check only their specified finite instances. DG002 and DG003's infinite-horizon lemmas have elementary paper proofs, not Lean or Palomar certificates. No universal Collatz proof or new major mathematical breakthrough is claimed. Mathematical claims are tagged by proof status in the ledger, with Git history recording corrections.
 
 ## Research provenance
 
