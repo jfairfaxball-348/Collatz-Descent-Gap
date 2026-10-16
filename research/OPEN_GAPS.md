@@ -146,3 +146,11 @@ Advance only when an explicit mathematically verified statement genuinely narrow
 4. **Formalisation/publication:** Paper-level elementary conditional proofs and finite exact checks exist; there is no Lean or Palomar verification, exhaustive prior-art/novelty review, arXiv submission, or reason to claim a universal Collatz breakthrough.
 
 **DG-GAP-01 remains OPEN.** Next research: [DG014](NEXT_SESSION_DG014.md) READY, NOT EXECUTED.
+
+
+## DG014 — precisely open after square-free symbolic stress tests (2026-10-16)
+
+1. **Arbitrary mountain positive-orbit gap:** An infinite *abstract* mountain schedule can have no repeated compound superword anywhere, even when parameters are unbounded and strongly oscillating, r_j/j->0, and every finite prefix is a genuine strict positive-integer bridge sequence. This is proved from the classical square-free Thue word with sparse unique spikes. It kills the proposed abstract repeated-island forcing route, but does NOT say a fixed ordinary positive seed can follow that infinite word. Could a stronger integer-specific, non-repetition invariant rule it out?
+2. **Actual unrestricted E-record gap:** Finite strict mountain bridges have endpoint/source ratios arbitrarily close to 3/2, so a uniform factor improvement based on their *finite local strictness alone* is impossible. Actual exceptional records may have extra global structure not shared by finite witnesses. No forced divergent short inverse roots, disjoint frequency, or E=o(X) contradiction. The sharp 7-mod9 shield and two-gap-window limitations remain.
+3. **Bounded/preperiodic gap:** First-cycle entry from outside must occur at a 2-mod3 cycle value. If a hypothetical positive nontrivial cycle has minimum c=5(mod9), z=(2c-1)/3 is a smaller 3-divisible preperiodic E element. Thus cycle-member 3-avoidance is not a preperiodic exclusion. Nothing establishes such a cycle, excludes a least exceptional multiple of3, or settles bounded E.
+4. **Status:** E=empty still OPEN. DG014 contains elementary paper proofs and finite exact checker, not Lean, Palomar, independent novelty assessment, or a publishable Collatz proof. See sessions/DG014.md and NEXT_SESSION_DG015.md (READY, NOT EXECUTED).
